@@ -2,11 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon
-version_code=13
-version_name=0.10.1
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.10.1.apk
-sha256=5679f44492f00a74c03bfac10ee2916f541af5e77cf900083572e67c8873bad0
-size=2332482
-published=2026-10-17T11:00:28Z
-notes_en=RayOn now tells you when a new version is available: choose Download or Not now, then confirm the install.
-sig=MEQCIAqJ4WF0kb/Yyn5XN90vgTdjL9bU+HH4bXg5YO4CSD0tAiAvqjL/Aa2UtgBB8g9O5pqczzpRRlhabjoWGi1/eQQ0Ig==
+version_code=14
+version_name=0.11.0
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.11.0.apk
+sha256=c26148b5a2e6ff69ed8e8f6b939b0aa280ce408024b51973ab474b6a8a9b8018
+size=2340702
+published=2026-10-17T20:59:43Z
+notes_en=Choose the head unit language right from RayOn (English, Arabic, French, Spanish, Chinese). Updates now install when you tap Install.
+notes_fr=Choisissez la langue de l'écran depuis RayOn (anglais, arabe, français, espagnol, chinois). Les mises à jour s'installent en touchant Installer.
+notes_ar=اختر لغة الشاشة من داخل RayOn (الإنجليزية، العربية، الفرنسية، الإسبانية، الصينية). تُثبَّت التحديثات عند الضغط على تثبيت.
+sig=MEUCIQCxv5vsoRTbag6pE8qa5XmgbVkisteboXE0l9a5RmZtKgIgaa5ck674KPy/gomFFynUEyungiSEGvLPveaKlPyvkd0=
