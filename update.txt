@@ -1,0 +1,12 @@
+# RayOn update notice. Signed: editing any line breaks it. Cars ask the driver before installing.
+format=1
+kind=update
+app=dev.coldfire.rayon
+version_code=13
+version_name=0.10.1
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.10.1.apk
+sha256=5679f44492f00a74c03bfac10ee2916f541af5e77cf900083572e67c8873bad0
+size=2332482
+published=2026-10-17T11:00:28Z
+notes_en=RayOn now tells you when a new version is available: choose Download or Not now, then confirm the install.
+sig=MEQCIAqJ4WF0kb/Yyn5XN90vgTdjL9bU+HH4bXg5YO4CSD0tAiAvqjL/Aa2UtgBB8g9O5pqczzpRRlhabjoWGi1/eQQ0Ig==
