@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon
-version_code=14
-version_name=0.11.0
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.11.0.apk
-sha256=c26148b5a2e6ff69ed8e8f6b939b0aa280ce408024b51973ab474b6a8a9b8018
-size=2340702
-published=2026-10-17T20:59:43Z
-notes_en=Choose the head unit language right from RayOn (English, Arabic, French, Spanish, Chinese). Updates now install when you tap Install.
-notes_fr=Choisissez la langue de l'écran depuis RayOn (anglais, arabe, français, espagnol, chinois). Les mises à jour s'installent en touchant Installer.
-notes_ar=اختر لغة الشاشة من داخل RayOn (الإنجليزية، العربية، الفرنسية، الإسبانية، الصينية). تُثبَّت التحديثات عند الضغط على تثبيت.
-sig=MEUCIQCxv5vsoRTbag6pE8qa5XmgbVkisteboXE0l9a5RmZtKgIgaa5ck674KPy/gomFFynUEyungiSEGvLPveaKlPyvkd0=
+version_code=26
+version_name=0.18.0
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.18.0.apk
+sha256=50213caef2ad1ec14b33cfcbb101c8616f04635c157ebd393d10301bf46231f5
+size=2393022
+published=2026-10-18T17:27:24Z
+notes_en=New home card: gear, drive mode and battery on top; this trip, since reset, car and service with rings for the km and days left. In D it shows an estimated gear (virtual gears), and gear changes appear at once.
+notes_fr=Nouvelle carte d'accueil : rapport, mode de conduite et batterie en haut ; ce trajet, trajet partiel, voiture et entretien avec des anneaux pour les km et les jours restants. En D, elle affiche un rapport estimé (rapports virtuels), et les changements de rapport s'affichent aussitôt.
+notes_ar=بطاقة جديدة للشاشة الرئيسية: ناقل الحركة ووضع القيادة والبطارية في الأعلى، ثم هذه الرحلة ومنذ إعادة الضبط والسيارة والصيانة مع حلقات للكيلومترات والأيام المتبقية. في وضع D تعرض رقم ترس تقديريًا (تروس افتراضية)، ويظهر تغيير ناقل الحركة فورًا.
+sig=MEYCIQDLFz/uOXzUtZCVV5ei0Og7GUQzWQw/ju2C5l2A9+84awIhAJ2zTBWVct4UXclkCDzPUJR/5rl9WfHJ1c1TCczQHUFQ
