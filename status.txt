@@ -1,7 +1,7 @@
 # RayOn licence status list. Signed: editing any line breaks it. Licence numbers only.
 format=1
 kind=status
-issued=2026-10-18T17:12:56Z
+issued=2026-10-18T17:13:07Z
 revoked=
 extend=
-sig=MEYCIQDe+q3DhRL35sopY/9JdO7vSHtUaklSPOQtMTKuKqdtwQIhAPDUsHm51Rq/WvwZlVd98CLbeY8JB1AaHcg+ITbB+7AA
+sig=MEYCIQC52Elr1kkmSZuEJLIwc+4asy5rGzQjBBjicgDuKclhRQIhAL4QPTtdpMH9L/q5z1yHFUCtxE34xd9lU7Q9vD3xQAtr
