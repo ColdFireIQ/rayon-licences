@@ -2,6 +2,6 @@
 format=1
 kind=status
 issued=2026-10-16T10:09:37Z
-revoked=
+revoked=1
 extend=
 sig=MEUCICtEDF4JxmNUjMLyCgve5f9DeliKNi1HaywobG6wBEktAiEAoO9kSyx2n1IsqUa5V/ovB+n+prI9G+DzyW9NAeiRXEA=
