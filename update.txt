@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon
-version_code=27
-version_name=0.19.0
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.19.0.apk
-sha256=cb4d30e91018c8f7224047ee05acfb60cb238beb6572f21be4176b0ec104edc8
-size=2398494
-published=2026-10-18T19:20:53Z
-notes_en=New home card with virtual gears, and RayOn now asks you when a new version is ready. Translations and every feature need a valid licence; licence renewals reach your car without a visit.
-notes_fr=Nouvelle carte d'accueil avec rapports virtuels, et RayOn vous prévient désormais dès qu'une nouvelle version est prête. Les traductions et toutes les fonctions nécessitent une licence valide ; les renouvellements de licence arrivent sur votre voiture sans rendez-vous.
-notes_ar=بطاقة رئيسية جديدة مع تروس افتراضية، ويُعلمك RayOn الآن عند توفر إصدار جديد. تتطلب الترجمات وجميع الميزات ترخيصًا صالحًا، ويصل تجديد الترخيص إلى سيارتك دون الحاجة إلى زيارة.
-sig=MEYCIQDvZbNnXeHy6pqjyJD/k3/aKSz3t7AXlg/drR3ZRhiC9QIhAMD5d0clsMahkPjkh73lFJMdt1+eQMT2HUh/OP+Ghwk8
+version_code=28
+version_name=0.19.1
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.19.1.apk
+sha256=d287ea73ec55bd5e9d15c6688fb7dee318bf9f4b4f20b10577301c787b80caa6
+size=2398510
+published=2026-10-18T19:36:27Z
+notes_en=New home card with virtual gears, and RayOn now asks you when a new version is ready. Translations and every feature need a valid licence; licence renewals reach your car without a visit. Fixes RayOn not starting after an update.
+notes_fr=Nouvelle carte d'accueil avec rapports virtuels, et RayOn vous prévient désormais dès qu'une nouvelle version est prête. Les traductions et toutes les fonctions nécessitent une licence valide ; les renouvellements de licence arrivent sur votre voiture sans rendez-vous. Corrige RayOn qui ne démarrait plus après une mise à jour.
+notes_ar=بطاقة رئيسية جديدة مع تروس افتراضية، ويُعلمك RayOn الآن عند توفر إصدار جديد. تتطلب الترجمات وجميع الميزات ترخيصًا صالحًا، ويصل تجديد الترخيص إلى سيارتك دون الحاجة إلى زيارة. ويصلح مشكلة عدم تشغيل RayOn بعد التحديث.
+sig=MEUCIGXHLUUKXm18RBRJL/MVHqzsnXmibXWjP+WDdklBgfQiAiEA4GRwCFnbAkDOPuBe6kBDsWMm0cz6QG1KmANgPhMLhzI=
