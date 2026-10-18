@@ -1,7 +1,7 @@
-# Rayon licence status list. Signed: editing any line breaks it. Licence numbers only.
+# RayOn licence status list. Signed: editing any line breaks it. Licence numbers only.
 format=1
 kind=status
-issued=2026-10-16T10:09:37Z
+issued=2026-10-18T17:12:18Z
 revoked=
 extend=
-sig=MEUCICtEDF4JxmNUjMLyCgve5f9DeliKNi1HaywobG6wBEktAiEAoO9kSyx2n1IsqUa5V/ovB+n+prI9G+DzyW9NAeiRXEA=
+sig=MEQCIBvm+gDbQjmHEIN/KgAO1TXOY0pD/dohWf1nA6DcYUYcAiBmInBAQfv6VLMqz9Np6DkdwqsSh38/hRbupd9kPggITQ==
