@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon
-version_code=28
-version_name=0.19.1
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.19.1.apk
-sha256=d287ea73ec55bd5e9d15c6688fb7dee318bf9f4b4f20b10577301c787b80caa6
+version_code=29
+version_name=0.19.2
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.19.2.apk
+sha256=dd7365401368a2046375d4ec3daea6271663c0be653ab3418dfc065c8341979b
 size=2398510
-published=2026-10-18T19:36:27Z
-notes_en=New home card with virtual gears, and RayOn now asks you when a new version is ready. Translations and every feature need a valid licence; licence renewals reach your car without a visit. Fixes RayOn not starting after an update.
-notes_fr=Nouvelle carte d'accueil avec rapports virtuels, et RayOn vous prévient désormais dès qu'une nouvelle version est prête. Les traductions et toutes les fonctions nécessitent une licence valide ; les renouvellements de licence arrivent sur votre voiture sans rendez-vous. Corrige RayOn qui ne démarrait plus après une mise à jour.
-notes_ar=بطاقة رئيسية جديدة مع تروس افتراضية، ويُعلمك RayOn الآن عند توفر إصدار جديد. تتطلب الترجمات وجميع الميزات ترخيصًا صالحًا، ويصل تجديد الترخيص إلى سيارتك دون الحاجة إلى زيارة. ويصلح مشكلة عدم تشغيل RayOn بعد التحديث.
-sig=MEUCIGXHLUUKXm18RBRJL/MVHqzsnXmibXWjP+WDdklBgfQiAiEA4GRwCFnbAkDOPuBe6kBDsWMm0cz6QG1KmANgPhMLhzI=
+published=2026-10-18T20:22:35Z
+notes_en=Test update: no changes, to try the update prompt.
+notes_fr=Mise à jour de test : aucun changement, pour essayer la fenêtre de mise à jour.
+notes_ar=تحديث تجريبي: لا تغييرات، لتجربة نافذة التحديث.
+sig=MEUCIEsL2f3Zim8LIgogAuciXow9edVgZohNzjG8MlRKpuUCAiEAwa769pTIJTj1T6Io4Q7r+SgoQTo1MVvyZ1hhA5pMM6A=
