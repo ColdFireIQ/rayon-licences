@@ -5,10 +5,8 @@ app=dev.coldfire.rayon
 version_code=29
 version_name=0.19.2
 url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.19.2.apk
-sha256=dd7365401368a2046375d4ec3daea6271663c0be653ab3418dfc065c8341979b
-size=2398510
-published=2026-10-18T20:22:35Z
-notes_en=Test update: no changes, to try the update prompt.
-notes_fr=Mise à jour de test : aucun changement, pour essayer la fenêtre de mise à jour.
-notes_ar=تحديث تجريبي: لا تغييرات، لتجربة نافذة التحديث.
-sig=MEUCIEsL2f3Zim8LIgogAuciXow9edVgZohNzjG8MlRKpuUCAiEAwa769pTIJTj1T6Io4Q7r+SgoQTo1MVvyZ1hhA5pMM6A=
+sha256=f3c5b597a36d2ead24db782a863ea2b9338867128a45dd31d7f6389d24d6e249
+size=2399874
+published=2026-10-20T18:15:00Z
+notes_en=Test
+sig=MEQCIFGz/b/PRxmSJ4Z1IbT3cNwB47nwYiFcOoePvReqhld/AiAUAwI5XicX+JUKYeO3pTFC1wuXg17zIBRyIO7Ou+UeWw==
