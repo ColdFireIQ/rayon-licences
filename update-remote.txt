@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=9
-version_name=0.2.2
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.2.2.apk
-sha256=bf2885a2db64d00b53bdd7833b4aee892caf24ce56824486c119a1e6b031ea97
-size=5067640
-published=2026-10-25T20:51:02Z
-notes_en=Fixes a crash when leaving the app or tapping Forget this car.
-notes_fr=Corrige un plantage en quittant l'appli ou en touchant Oublier cette voiture.
-notes_ar=يصلح توقف التطبيق عند الخروج منه أو عند الضغط على نسيان هذه السيارة.
-sig=MEUCID4soLQF/5v9Ie9Q3VhqKaXtxCMAdFFKKNk5C8OEpJrNAiEA6lT+2SofuPv8HDFCjbgM+Lbf7z6hFHff2EsRdNdYe/0=
+version_code=10
+version_name=0.2.3
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.2.3.apk
+sha256=fdced39d1b7797680d41d51288da43d48909c0afe29d29da4d27d4a2b40748a2
+size=5067680
+published=2026-10-25T21:04:09Z
+notes_en=Connects to the car by Bluetooth when you are near it: much faster than over the internet. Needs RayOn 0.25.2 on the car.
+notes_fr=Se connecte à la voiture en Bluetooth quand vous êtes à proximité : bien plus rapide que par internet. Nécessite RayOn 0.25.2 dans la voiture.
+notes_ar=يتصل بالسيارة عبر البلوتوث عندما تكون قريباً منها: أسرع بكثير من الإنترنت. يتطلب RayOn 0.25.2 في السيارة.
+sig=MEYCIQCMobJSFHBchUFxZV3aEF8wokQOUd1+s9Exew8O/xWi2QIhAMG01XqVVgvzMrcrU7bBSa9h+6ck6OR9+Cn0S7Y3PnCh
