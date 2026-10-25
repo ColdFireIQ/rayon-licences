@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=10
-version_name=0.2.3
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.2.3.apk
-sha256=fdced39d1b7797680d41d51288da43d48909c0afe29d29da4d27d4a2b40748a2
-size=5067680
-published=2026-10-25T21:04:09Z
-notes_en=Connects to the car by Bluetooth when you are near it: much faster than over the internet. Needs RayOn 0.25.2 on the car.
-notes_fr=Se connecte à la voiture en Bluetooth quand vous êtes à proximité : bien plus rapide que par internet. Nécessite RayOn 0.25.2 dans la voiture.
-notes_ar=يتصل بالسيارة عبر البلوتوث عندما تكون قريباً منها: أسرع بكثير من الإنترنت. يتطلب RayOn 0.25.2 في السيارة.
-sig=MEYCIQCMobJSFHBchUFxZV3aEF8wokQOUd1+s9Exew8O/xWi2QIhAMG01XqVVgvzMrcrU7bBSa9h+6ck6OR9+Cn0S7Y3PnCh
+version_code=11
+version_name=0.3.0
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.3.0.apk
+sha256=ce1e473b24b4900077b7095f8ae24a177e72053c7298e22b07a7fdd7e8ec47d4
+size=5095507
+published=2026-10-25T22:32:28Z
+notes_en=New: Climate (power, temperatures, fan, A/C, auto, recirculation, defrost, seat heating) and the home screen quick buttons (screen off, fresh air, sunroof vent).
+notes_fr=Nouveau : climatisation (marche, températures, ventilation, clim, auto, recyclage, désembuage, sièges chauffants) et les boutons rapides de l'écran d'accueil (écran éteint, air frais, aération du toit).
+notes_ar=جديد: التكييف (التشغيل ودرجات الحرارة والمروحة والمكيف والوضع التلقائي وتدوير الهواء وإزالة الضباب وتدفئة المقاعد) والأزرار السريعة للشاشة الرئيسية (إطفاء الشاشة والهواء النقي وتهوية السقف).
+sig=MEUCIAyT9/2h8EcBZGYAWkzspVzURzY0I5nsX+oLUnBv6uK1AiEAh8pHinGv8xnPakf7nM+rKMQDHFpvfY9czvvkoDk7A5M=
