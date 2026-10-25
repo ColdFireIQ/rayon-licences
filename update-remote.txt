@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=5
-version_name=0.1.4
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.1.4.apk
-sha256=423d7a5cecf2d89c02dcddc2d7873b8ec54d228368887f611fb6cdf3e834dd07
-size=5051188
-published=2026-10-25T19:25:22Z
-notes_en=Fixes connecting to the car when the phone is already paired with it for calls and music.
-notes_fr=Corrige la connexion à la voiture quand le téléphone y est déjà associé pour les appels et la musique.
-notes_ar=يصلح الاتصال بالسيارة عندما يكون الهاتف مقترناً بها مسبقاً للمكالمات والموسيقى.
-sig=MEYCIQCYNP+8nSCUL04vVH6qUPX4bbv6AXTnAXDuO9ym9pm2sQIhAPGHQQKZGultmIMo/27pzhg/36jlTDEsQZAhcFUd+el+
+version_code=6
+version_name=0.1.5
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.1.5.apk
+sha256=704fdfcc922aa3a4a7b6d142c95ab2df78ade6dcfb75d6893deca37cd4eda9ae
+size=5054020
+published=2026-10-25T19:28:10Z
+notes_en=Looks for updates every time it opens, and has a Check for updates button. Also fixes connecting when the phone is already paired with the car for calls and music.
+notes_fr=Cherche les mises à jour à chaque ouverture, avec un bouton Rechercher des mises à jour. Corrige aussi la connexion quand le téléphone est déjà associé à la voiture pour les appels et la musique.
+notes_ar=يبحث عن التحديثات عند كل فتح، مع زر البحث عن تحديثات. ويصلح الاتصال عندما يكون الهاتف مقترناً بالسيارة للمكالمات والموسيقى.
+sig=MEQCIHFDxZYk80BshqhEm08SeHllhDUA0Kholle++ey5bjRMAiAw+AB2LiB6Di7zKwR/DcEve3Hwk8EWh1BfYzet7kvaLw==
