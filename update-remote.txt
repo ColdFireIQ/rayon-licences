@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=7
-version_name=0.2.0
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.2.0.apk
-sha256=c47a1cff440e60424bee9ccb2ce4a38026a4a93cb77509e92aeaee7ba5703f3f
-size=5067288
-published=2026-10-25T20:42:00Z
-notes_en=Works over the internet too: when the phone is away from the car, it connects through the internet while the car is on and online. Shows the step it stopped at if connecting fails.
-notes_fr=Fonctionne aussi par internet : loin de la voiture, le téléphone s'y connecte par internet tant qu'elle est allumée et en ligne. Indique l'étape bloquée si la connexion échoue.
-notes_ar=يعمل عبر الإنترنت أيضاً: عندما يكون الهاتف بعيداً عن السيارة يتصل بها عبر الإنترنت ما دامت في وضع التشغيل ومتصلة. ويعرض الخطوة التي توقف عندها إذا فشل الاتصال.
-sig=MEQCIDS5BHit5QrkJwBoLlQNpK1Zt/7rx5Zj0AlflfucPiMyAiAXvh6Uxg8MLTYPrjALT11RpCskW1Y5HT7hNP+lGFCz8g==
+version_code=8
+version_name=0.2.1
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.2.1.apk
+sha256=40f046122f8464fc617a8e39d3537738bcfbb190254562a7c17a67e5ad0cfd4a
+size=5067308
+published=2026-10-25T20:42:46Z
+notes_en=Looks for updates every time it opens. Works over the internet too, while the car is on and online.
+notes_fr=Cherche les mises à jour à chaque ouverture. Fonctionne aussi par internet, tant que la voiture est allumée et en ligne.
+notes_ar=يبحث عن التحديثات عند كل فتح. ويعمل عبر الإنترنت أيضاً ما دامت السيارة في وضع التشغيل ومتصلة.
+sig=MEUCIQCQmkOeFovUAuW50pueRVYMpU/8qXe27D3PfZmQVHf6tQIgati4Pc2Ljnt6Rb747+qT7gh02xAhIskVTAJ/PRN7RGo=
