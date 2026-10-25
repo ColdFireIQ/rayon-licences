@@ -1,0 +1,14 @@
+# RayOn update notice. Signed: editing any line breaks it. Nothing installs without a tap.
+format=1
+kind=update
+app=dev.coldfire.rayon.remote
+version_code=4
+version_name=0.1.3
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.1.3.apk
+sha256=2941c233b131bfeda6cebf46ebd8a7fcefae29ee40ab8007aa5956d0556671e1
+size=5050232
+published=2026-10-25T19:10:48Z
+notes_en=Test of over-the-air updates. Nothing else changed.
+notes_fr=Test des mises à jour par internet. Rien d'autre ne change.
+notes_ar=اختبار التحديث عبر الإنترنت. لا تغييرات أخرى.
+sig=MEUCIQDnyOZZupQ09GtWlwLmbkqGBSEfpCkG4bntrEzogEfg5AIgFlox4rdJo7XF4ljRFq/Op0k6i4Vl0lItyObaNrMm1vE=
