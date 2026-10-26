@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=11
-version_name=0.3.0
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.3.0.apk
-sha256=ce1e473b24b4900077b7095f8ae24a177e72053c7298e22b07a7fdd7e8ec47d4
-size=5095507
-published=2026-10-25T22:32:28Z
-notes_en=New: Climate (power, temperatures, fan, A/C, auto, recirculation, defrost, seat heating) and the home screen quick buttons (screen off, fresh air, sunroof vent).
-notes_fr=Nouveau : climatisation (marche, températures, ventilation, clim, auto, recyclage, désembuage, sièges chauffants) et les boutons rapides de l'écran d'accueil (écran éteint, air frais, aération du toit).
-notes_ar=جديد: التكييف (التشغيل ودرجات الحرارة والمروحة والمكيف والوضع التلقائي وتدوير الهواء وإزالة الضباب وتدفئة المقاعد) والأزرار السريعة للشاشة الرئيسية (إطفاء الشاشة والهواء النقي وتهوية السقف).
-sig=MEUCIAyT9/2h8EcBZGYAWkzspVzURzY0I5nsX+oLUnBv6uK1AiEAh8pHinGv8xnPakf7nM+rKMQDHFpvfY9czvvkoDk7A5M=
+version_code=12
+version_name=0.4.0
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.4.0.apk
+sha256=30528858291853c970f8e5ba592345407b6a805e1f77cec26086ccf3a93bb9b3
+size=5116139
+published=2026-10-26T14:56:52Z
+notes_en=New layout with tabs at the bottom; the windows fit on one screen.\nArabic and French throughout, with a language choice in Settings.
+notes_fr=Nouvelle disposition avec des onglets en bas ; les vitres tiennent sur un seul écran.\nArabe et français partout, avec un choix de langue dans les Réglages.
+notes_ar=تصميم جديد بعلامات تبويب في الأسفل؛ النوافذ تظهر في شاشة واحدة.\nالعربية والفرنسية في كل مكان، مع اختيار اللغة في الإعدادات.
+sig=MEUCIDyxK//d+OkCgXgAkCXmLXMRjpl6fSy+YnB7VgIpzRp6AiEAkLfaxTjO0y9taYcyvfHjAxxb5Tx2zJaJge6Uv/f+JoY=
