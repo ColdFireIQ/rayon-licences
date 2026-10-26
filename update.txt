@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon
-version_code=42
-version_name=0.28.0
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.28.0.apk
-sha256=2d43ede9053830b195e676738d6bc1e37c31e8405bbe3dfb7de79fa6db280b15
-size=3060362
-published=2026-10-26T15:51:01Z
-notes_en=Three home card designs: Classic, Focus and Gauges. Choose one on the Home screen page.\nClimate: turning Auto off from the phone now works.\nThe roof icons now point the right way.
-notes_fr=Trois styles pour la carte d'accueil : Classique, Essentiel et Cadrans. Choisissez-en un dans la page Écran d'accueil.\nClimatisation : désactiver le mode Auto depuis le téléphone fonctionne désormais.\nLes icônes du toit pointent maintenant dans le bon sens.
-notes_ar=ثلاثة تصاميم لبطاقة الشاشة الرئيسية: كلاسيكي وتركيز وعدّادات. اختر واحداً من صفحة الشاشة الرئيسية.\nالتكييف: إيقاف الوضع التلقائي من الهاتف يعمل الآن.\nأيقونات السقف تشير الآن إلى الاتجاه الصحيح.
-sig=MEQCIHcUukeAcWgFwVkd9ysT+yNweGKSy6hAKKhhbwGcbpVXAiAK1AtdYEa5kTv16f6DblnXSg5MbGqMmo77NkqDmZ+caQ==
+version_code=44
+version_name=0.29.1
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.29.1.apk
+sha256=479746fb50329fd658dfff5831e486cd72c45f0aa541c212cd7bd7694efad135
+size=3080014
+published=2026-10-26T20:43:24Z
+notes_en=New: Steering wheel buttons. Give the Geely (Home) button and the two-windows button your own actions for a short and a long press. Off until you switch it on; nothing happens in reverse.\nLock and unlock the car from RayOn Remote (needs RayOn Remote 0.5.0).\nRear demister from the phone now works (engine running).\nClosing the sunroof no longer closes the shade.
+notes_fr=Nouveau : boutons du volant. Attribuez vos propres actions au bouton Geely (Accueil) et au bouton à deux fenêtres, pour un appui court et un appui long. Désactivé tant que vous ne l'activez pas ; rien ne se passe en marche arrière.\nVerrouillez et déverrouillez la voiture depuis RayOn Remote (nécessite RayOn Remote 0.5.0).\nLe dégivrage arrière depuis le téléphone fonctionne désormais (moteur en marche).\nFermer le toit ouvrant ne ferme plus le rideau.
+notes_ar=جديد: أزرار المقود. خصّص إجراءاتك لزر Geely (الشاشة الرئيسية) ولزر النافذتين، للضغطة القصيرة والمطوّلة. متوقفة حتى تشغّلها، ولا يحدث شيء عند التعشيق للخلف.\nاقفل السيارة وافتح قفلها من RayOn Remote (يتطلب RayOn Remote 0.5.0).\nإزالة الضباب الخلفي من الهاتف تعمل الآن (والمحرك يعمل).\nإغلاق فتحة السقف لم يعد يغلق الستارة.
+sig=MEUCIQClb28bGcIqLKw19RiPhxeRpR607Pm5wB/AZRa7kL1S3AIgOxvhy1vCBVt8Sn3w6LnFbskmCUKmDEQS6MP1hymXgIg=
