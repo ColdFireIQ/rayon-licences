@@ -1,12 +1,14 @@
-# RayOn update notice. Signed: editing any line breaks it. Cars ask the driver before installing.
+# RayOn update notice. Signed: editing any line breaks it. Nothing installs without a tap.
 format=1
 kind=update
 app=dev.coldfire.rayon
-version_code=29
-version_name=0.19.2
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.19.2.apk
-sha256=f3c5b597a36d2ead24db782a863ea2b9338867128a45dd31d7f6389d24d6e249
-size=2399874
-published=2026-10-20T18:15:00Z
-notes_en=Test
-sig=MEQCIFGz/b/PRxmSJ4Z1IbT3cNwB47nwYiFcOoePvReqhld/AiAUAwI5XicX+JUKYeO3pTFC1wuXg17zIBRyIO7Ou+UeWw==
+version_code=42
+version_name=0.28.0
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.28.0.apk
+sha256=2d43ede9053830b195e676738d6bc1e37c31e8405bbe3dfb7de79fa6db280b15
+size=3060362
+published=2026-10-26T15:51:01Z
+notes_en=Three home card designs: Classic, Focus and Gauges. Choose one on the Home screen page.\nClimate: turning Auto off from the phone now works.\nThe roof icons now point the right way.
+notes_fr=Trois styles pour la carte d'accueil : Classique, Essentiel et Cadrans. Choisissez-en un dans la page Écran d'accueil.\nClimatisation : désactiver le mode Auto depuis le téléphone fonctionne désormais.\nLes icônes du toit pointent maintenant dans le bon sens.
+notes_ar=ثلاثة تصاميم لبطاقة الشاشة الرئيسية: كلاسيكي وتركيز وعدّادات. اختر واحداً من صفحة الشاشة الرئيسية.\nالتكييف: إيقاف الوضع التلقائي من الهاتف يعمل الآن.\nأيقونات السقف تشير الآن إلى الاتجاه الصحيح.
+sig=MEQCIHcUukeAcWgFwVkd9ysT+yNweGKSy6hAKKhhbwGcbpVXAiAK1AtdYEa5kTv16f6DblnXSg5MbGqMmo77NkqDmZ+caQ==
