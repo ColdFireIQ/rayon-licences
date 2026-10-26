@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=12
-version_name=0.4.0
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.4.0.apk
-sha256=30528858291853c970f8e5ba592345407b6a805e1f77cec26086ccf3a93bb9b3
-size=5116139
-published=2026-10-26T14:56:52Z
-notes_en=New layout with tabs at the bottom; the windows fit on one screen.\nArabic and French throughout, with a language choice in Settings.
-notes_fr=Nouvelle disposition avec des onglets en bas ; les vitres tiennent sur un seul écran.\nArabe et français partout, avec un choix de langue dans les Réglages.
-notes_ar=تصميم جديد بعلامات تبويب في الأسفل؛ النوافذ تظهر في شاشة واحدة.\nالعربية والفرنسية في كل مكان، مع اختيار اللغة في الإعدادات.
-sig=MEUCIDyxK//d+OkCgXgAkCXmLXMRjpl6fSy+YnB7VgIpzRp6AiEAkLfaxTjO0y9taYcyvfHjAxxb5Tx2zJaJge6Uv/f+JoY=
+version_code=13
+version_name=0.5.0
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.5.0.apk
+sha256=c66eef0623c5952b97b2df22fcaec531622714f9f63705d8bbbf00a9ec93d7ea
+size=5129795
+published=2026-10-26T20:17:57Z
+notes_en=Lock and unlock your car from the Car tab. The Doors card shows whether the car is locked, or which doors aren't. Unlock asks first. If no door is opened, the car locks itself again after about a minute.\nNeeds RayOn 0.29.0 in the car.
+notes_fr=Verrouillez et déverrouillez votre voiture depuis l'onglet Voiture. La carte Portes indique si la voiture est verrouillée, ou quelles portes ne le sont pas. Le déverrouillage demande confirmation. Si aucune porte n'est ouverte, la voiture se verrouille de nouveau d'elle-même au bout d'une minute environ.\nNécessite RayOn 0.29.0 dans la voiture.
+notes_ar=اقفل سيارتك وافتح قفلها من تبويب السيارة. تُظهر بطاقة الأبواب إن كانت السيارة مقفلة، أو أي الأبواب غير مقفلة. يطلب فتح القفل تأكيداً أولاً. إذا لم يُفتح أي باب، تُقفل السيارة نفسها مجدداً بعد دقيقة تقريباً.\nيتطلب RayOn 0.29.0 في السيارة.
+sig=MEUCIQCsMhM87s4HWpk9m0ebdsK1L/WCRVVZsh6PqFRoDE0EDQIgEc2ITLNxleFoBkK7dEgp5e3fCNrhvk/KIxyA3gp18LI=
