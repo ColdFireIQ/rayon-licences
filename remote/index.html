@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RayOn Remote</title>
+<meta name="description" content="Download RayOn Remote, the phone app for RayOn on your Geely head unit.">
+<style>
+  :root {
+    --bg: #f4f6f9; --card: #ffffff; --text: #141922; --muted: #5b6575; --line: #e2e6ec;
+    --accent: #1a73e8; --accent-text: #ffffff; --warn: #a15c00;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0f1218; --card: #191e27; --text: #eef1f6; --muted: #9aa4b4; --line: #2a313d;
+      --accent: #5aa8ff; --accent-text: #0b1220; --warn: #ffb35c;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0f1218; --card: #191e27; --text: #eef1f6; --muted: #9aa4b4; --line: #2a313d;
+    --accent: #5aa8ff; --accent-text: #0b1220; --warn: #ffb35c;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans Arabic", sans-serif;
+  }
+  main { max-width: 520px; margin: 0 auto; padding: 32px 16px 48px; }
+  header { display: flex; align-items: center; gap: 14px; margin-bottom: 20px; }
+  .logo {
+    width: 56px; height: 56px; border-radius: 14px; background: #10161f;
+    display: grid; place-items: center; flex: none;
+  }
+  h1 { font-size: 26px; margin: 0; }
+  .sub { color: var(--muted); margin: 2px 0 0; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 20px; margin-bottom: 16px; }
+  .download {
+    display: block; text-align: center; text-decoration: none; font-weight: 600; font-size: 18px;
+    background: var(--accent); color: var(--accent-text); border-radius: 12px; padding: 14px 16px;
+  }
+  .download[aria-disabled="true"] { opacity: .5; pointer-events: none; }
+  .meta { color: var(--muted); font-size: 14px; text-align: center; margin: 10px 0 0; }
+  h2 { font-size: 17px; margin: 0 0 10px; }
+  ol { margin: 0; padding-inline-start: 22px; }
+  li { margin: 6px 0; }
+  .notes { white-space: pre-line; color: var(--muted); margin: 0; }
+  .langs { display: flex; gap: 8px; justify-content: center; margin-top: 8px; }
+  .langs button {
+    background: none; border: 1px solid var(--line); color: var(--muted); border-radius: 999px;
+    padding: 4px 12px; font: inherit; font-size: 14px; cursor: pointer;
+  }
+  .langs button[aria-pressed="true"] { color: var(--text); border-color: var(--accent); }
+  .error { color: var(--warn); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="logo" aria-hidden="true">
+      <svg width="34" height="34" viewBox="0 0 34 34">
+        <circle cx="17" cy="21" r="7" fill="#ffb020"/>
+        <g stroke="#ffb020" stroke-width="2.4" stroke-linecap="round">
+          <path d="M17 4v5M5 9l3.5 3.5M29 9l-3.5 3.5M2 21h5M27 21h5"/>
+        </g>
+        <rect x="4" y="27" width="26" height="3" rx="1.5" fill="#5aa8ff"/>
+      </svg>
+    </div>
+    <div>
+      <h1>RayOn Remote</h1>
+      <p class="sub" data-t="tagline"></p>
+    </div>
+  </header>
+
+  <section class="card">
+    <a id="dl" class="download" href="#" aria-disabled="true" data-t="download"></a>
+    <p id="meta" class="meta" data-t="loading"></p>
+  </section>
+
+  <section class="card">
+    <h2 data-t="howTitle"></h2>
+    <ol>
+      <li data-t="step1"></li>
+      <li data-t="step2"></li>
+      <li data-t="step3"></li>
+      <li data-t="step4"></li>
+    </ol>
+  </section>
+
+  <section class="card" id="notesCard" hidden>
+    <h2 data-t="newTitle"></h2>
+    <p id="notes" class="notes"></p>
+  </section>
+
+  <div class="langs" role="group" aria-label="Language">
+    <button type="button" data-lang="en">English</button>
+    <button type="button" data-lang="fr">Français</button>
+    <button type="button" data-lang="ar">العربية</button>
+  </div>
+</main>
+
+<script>
+  // The signed notice RayOn Remote updates itself from: it always names the newest APK.
+  const NOTICE = 'https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/update-remote.txt';
+
+  const TEXT = {
+    en: {
+      tagline: 'The phone app for RayOn in your car.',
+      download: 'Download for Android',
+      loading: 'Finding the newest version…',
+      version: 'Version {v} · {mb} MB',
+      failed: 'Could not reach the download. Check your connection and reload.',
+      howTitle: 'How to install',
+      step1: 'Tap “Download for Android” and open the file when it has downloaded.',
+      step2: 'If Android asks, allow your browser to install apps, then go back.',
+      step3: 'Tap Install. The app updates itself from then on.',
+      step4: 'In the car, open RayOn → Phone app and pair your phone.',
+      newTitle: 'What’s new',
+    },
+    fr: {
+      tagline: 'L’application téléphone de RayOn dans votre voiture.',
+      download: 'Télécharger pour Android',
+      loading: 'Recherche de la dernière version…',
+      version: 'Version {v} · {mb} Mo',
+      failed: 'Téléchargement introuvable. Vérifiez votre connexion et rechargez la page.',
+      howTitle: 'Installation',
+      step1: 'Touchez « Télécharger pour Android » puis ouvrez le fichier une fois téléchargé.',
+      step2: 'Si Android le demande, autorisez votre navigateur à installer des applications, puis revenez.',
+      step3: 'Touchez Installer. L’application se met ensuite à jour toute seule.',
+      step4: 'Dans la voiture, ouvrez RayOn → Application téléphone et associez votre téléphone.',
+      newTitle: 'Nouveautés',
+    },
+    ar: {
+      tagline: 'تطبيق الهاتف لـ RayOn في سيارتك.',
+      download: 'تنزيل لأندرويد',
+      loading: 'جارٍ البحث عن أحدث إصدار…',
+      version: 'الإصدار {v} · {mb} ميغابايت',
+      failed: 'تعذّر الوصول إلى التنزيل. تحقّق من اتصالك وأعد تحميل الصفحة.',
+      howTitle: 'طريقة التثبيت',
+      step1: 'اضغط «تنزيل لأندرويد» ثم افتح الملف بعد اكتمال تنزيله.',
+      step2: 'إذا طلب أندرويد ذلك، اسمح لمتصفحك بتثبيت التطبيقات ثم عُد.',
+      step3: 'اضغط تثبيت. بعدها يحدّث التطبيق نفسه تلقائياً.',
+      step4: 'في السيارة، افتح RayOn ← تطبيق الهاتف واربط هاتفك.',
+      newTitle: 'الجديد',
+    },
+  };
+
+  let notice = null, failed = false, lang = 'en';
+
+  function pickLang() {
+    let saved = null;
+    try { saved = localStorage.getItem('lang'); } catch (e) {}
+    if (saved && TEXT[saved]) return saved;
+    for (const l of navigator.languages || [navigator.language || 'en']) {
+      const s = l.slice(0, 2).toLowerCase();
+      if (TEXT[s]) return s;
+    }
+    return 'en';
+  }
+
+  function render() {
+    const t = TEXT[lang];
+    document.documentElement.lang = lang;
+    document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';
+    document.querySelectorAll('[data-t]').forEach(el => { el.textContent = t[el.dataset.t]; });
+    document.querySelectorAll('.langs button').forEach(b => b.setAttribute('aria-pressed', b.dataset.lang === lang));
+    const meta = document.getElementById('meta');
+    const dl = document.getElementById('dl');
+    if (failed) {
+      meta.textContent = t.failed;
+      meta.classList.add('error');
+    } else if (notice) {
+      const mb = (Number(notice.size) / 1048576).toFixed(1);
+      meta.textContent = t.version.replace('{v}', notice.version_name).replace('{mb}', mb);
+      dl.href = notice.url;
+      dl.setAttribute('aria-disabled', 'false');
+      const notes = notice['notes_' + lang] || notice.notes_en;
+      document.getElementById('notesCard').hidden = !notes;
+      document.getElementById('notes').textContent = (notes || '').replace(/\\n/g, '\n');
+    }
+  }
+
+  document.querySelectorAll('.langs button').forEach(b => b.addEventListener('click', () => {
+    lang = b.dataset.lang;
+    try { localStorage.setItem('lang', lang); } catch (e) {}
+    render();
+  }));
+
+  lang = pickLang();
+  render();
+
+  fetch(NOTICE + '?t=' + Date.now(), { cache: 'no-store' })
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
+    .then(text => {
+      const n = {};
+      for (const line of text.split('\n')) {
+        const i = line.indexOf('=');
+        if (i > 0 && !line.startsWith('#')) n[line.slice(0, i).trim()] = line.slice(i + 1).trim();
+      }
+      if (!n.url || !n.url.startsWith('https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/')) throw new Error('bad notice');
+      notice = n;
+      render();
+    })
+    .catch(() => { failed = true; render(); });
+</script>
+</body>
+</html>
