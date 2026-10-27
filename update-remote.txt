@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=15
-version_name=0.7.0
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.7.0.apk
-sha256=db503adcc53c5975a2f4c99389a3dda23255c988718a65963d427bc2aea674ee
-size=5187071
-published=2026-10-27T01:36:21Z
-notes_en=New Cameras tab: snapshots of your car's four 360° cameras (needs RayOn 0.30 or newer in the car).\nAsks for your fingerprint or screen lock before unlocking the car, opening windows or the sunroof, and taking snapshots.\nNew: unlock the car's Phone settings from the owner's phone (RayOn 0.31).\nMore reliable connection: a car that stops answering over Bluetooth is noticed, and the internet takes over.
-notes_fr=Nouvel onglet Caméras : photos des quatre caméras 360° de votre voiture (RayOn 0.30 ou plus récent requis dans la voiture).\nDemande l'empreinte ou le verrouillage d'écran avant de déverrouiller la voiture, d'ouvrir les vitres ou le toit ouvrant et de prendre des photos.\nNouveau : déverrouiller les réglages Téléphone de la voiture depuis le téléphone du propriétaire (RayOn 0.31).\nConnexion plus fiable : une voiture qui ne répond plus en Bluetooth est détectée et internet prend le relais.
-notes_ar=تبويب جديد للكاميرات: لقطات من كاميرات 360° الأربع في سيارتك (يتطلب RayOn 0.30 أو أحدث في السيارة).\nيطلب البصمة أو قفل الشاشة قبل فتح قفل السيارة أو فتح النوافذ أو فتحة السقف والتقاط الصور.\nجديد: فتح إعدادات الهاتف في السيارة من هاتف المالك (RayOn 0.31).\nاتصال أكثر موثوقية: يُكتشف توقّف السيارة عن الرد عبر البلوتوث ويتولّى الإنترنت الاتصال.
-sig=MEQCIGBsXvJVEldB5YHcjqwG9C6laOSg+PdNs0lb6xNZFNGBAiBFSQbAdGP7gJU24Xu/Da0XUk8mt7h4LsSfZqPQ/J1NxA==
+version_code=16
+version_name=0.7.1
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.7.1.apk
+sha256=328d9d9140c724fa0cb66c45b0c185ff2c4fd11e0502278b6c66015954362034
+size=5188487
+published=2026-10-27T07:06:46Z
+notes_en=Unlocking the car's Phone settings now works first time: the link stays up while the camera scans the code.
+notes_fr=Le déverrouillage des réglages Téléphone de la voiture fonctionne du premier coup : la connexion reste active pendant que la caméra lit le code.
+notes_ar=فتح إعدادات الهاتف في السيارة يعمل الآن من المحاولة الأولى: يبقى الاتصال قائماً أثناء مسح الكاميرا للرمز.
+sig=MEUCIQCaqvAPbdo47c9cyzGeJM+DsCJuxycVlalggDLC1sBJngIgW5UyWIMpMp2rYj1nKK7npYHZNQywLIA4raZ81PAeWCY=
