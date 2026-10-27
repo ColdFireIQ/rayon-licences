@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=13
-version_name=0.5.0
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.5.0.apk
-sha256=c66eef0623c5952b97b2df22fcaec531622714f9f63705d8bbbf00a9ec93d7ea
-size=5129795
-published=2026-10-26T20:17:57Z
-notes_en=Lock and unlock your car from the Car tab. The Doors card shows whether the car is locked, or which doors aren't. Unlock asks first. If no door is opened, the car locks itself again after about a minute.\nNeeds RayOn 0.29.0 in the car.
-notes_fr=Verrouillez et déverrouillez votre voiture depuis l'onglet Voiture. La carte Portes indique si la voiture est verrouillée, ou quelles portes ne le sont pas. Le déverrouillage demande confirmation. Si aucune porte n'est ouverte, la voiture se verrouille de nouveau d'elle-même au bout d'une minute environ.\nNécessite RayOn 0.29.0 dans la voiture.
-notes_ar=اقفل سيارتك وافتح قفلها من تبويب السيارة. تُظهر بطاقة الأبواب إن كانت السيارة مقفلة، أو أي الأبواب غير مقفلة. يطلب فتح القفل تأكيداً أولاً. إذا لم يُفتح أي باب، تُقفل السيارة نفسها مجدداً بعد دقيقة تقريباً.\nيتطلب RayOn 0.29.0 في السيارة.
-sig=MEUCIQCsMhM87s4HWpk9m0ebdsK1L/WCRVVZsh6PqFRoDE0EDQIgEc2ITLNxleFoBkK7dEgp5e3fCNrhvk/KIxyA3gp18LI=
+version_code=15
+version_name=0.7.0
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.7.0.apk
+sha256=db503adcc53c5975a2f4c99389a3dda23255c988718a65963d427bc2aea674ee
+size=5187071
+published=2026-10-27T01:36:21Z
+notes_en=New Cameras tab: snapshots of your car's four 360° cameras (needs RayOn 0.30 or newer in the car).\nAsks for your fingerprint or screen lock before unlocking the car, opening windows or the sunroof, and taking snapshots.\nNew: unlock the car's Phone settings from the owner's phone (RayOn 0.31).\nMore reliable connection: a car that stops answering over Bluetooth is noticed, and the internet takes over.
+notes_fr=Nouvel onglet Caméras : photos des quatre caméras 360° de votre voiture (RayOn 0.30 ou plus récent requis dans la voiture).\nDemande l'empreinte ou le verrouillage d'écran avant de déverrouiller la voiture, d'ouvrir les vitres ou le toit ouvrant et de prendre des photos.\nNouveau : déverrouiller les réglages Téléphone de la voiture depuis le téléphone du propriétaire (RayOn 0.31).\nConnexion plus fiable : une voiture qui ne répond plus en Bluetooth est détectée et internet prend le relais.
+notes_ar=تبويب جديد للكاميرات: لقطات من كاميرات 360° الأربع في سيارتك (يتطلب RayOn 0.30 أو أحدث في السيارة).\nيطلب البصمة أو قفل الشاشة قبل فتح قفل السيارة أو فتح النوافذ أو فتحة السقف والتقاط الصور.\nجديد: فتح إعدادات الهاتف في السيارة من هاتف المالك (RayOn 0.31).\nاتصال أكثر موثوقية: يُكتشف توقّف السيارة عن الرد عبر البلوتوث ويتولّى الإنترنت الاتصال.
+sig=MEQCIGBsXvJVEldB5YHcjqwG9C6laOSg+PdNs0lb6xNZFNGBAiBFSQbAdGP7gJU24Xu/Da0XUk8mt7h4LsSfZqPQ/J1NxA==
