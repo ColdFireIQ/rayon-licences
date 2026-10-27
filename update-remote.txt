@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=16
-version_name=0.7.1
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.7.1.apk
-sha256=328d9d9140c724fa0cb66c45b0c185ff2c4fd11e0502278b6c66015954362034
-size=5188487
-published=2026-10-27T07:06:46Z
-notes_en=Unlocking the car's Phone settings now works first time: the link stays up while the camera scans the code.
-notes_fr=Le déverrouillage des réglages Téléphone de la voiture fonctionne du premier coup : la connexion reste active pendant que la caméra lit le code.
-notes_ar=فتح إعدادات الهاتف في السيارة يعمل الآن من المحاولة الأولى: يبقى الاتصال قائماً أثناء مسح الكاميرا للرمز.
-sig=MEUCIQCaqvAPbdo47c9cyzGeJM+DsCJuxycVlalggDLC1sBJngIgW5UyWIMpMp2rYj1nKK7npYHZNQywLIA4raZ81PAeWCY=
+version_code=17
+version_name=0.7.2
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.7.2.apk
+sha256=8f60ccad8acb7c1e31741d0a58e8fcc0c13d2f33e13f6a67b415e935314144a6
+size=5189327
+published=2026-10-27T07:17:03Z
+notes_en=When the car is switched off, the app now says so: the windows, the sunroof and the climate need the ignition on (locking works either way). Needs RayOn 0.31.1.
+notes_fr=Quand la voiture est éteinte, l'application le dit : les vitres, le toit ouvrant et la climatisation demandent le contact (le verrouillage fonctionne toujours). Nécessite RayOn 0.31.1.
+notes_ar=عندما تكون السيارة مطفأة، يخبرك التطبيق بذلك: النوافذ وفتحة السقف والتكييف تحتاج إلى تشغيل الإشعال (القفل يعمل دائماً). يتطلب RayOn 0.31.1.
+sig=MEQCIBrRJPHX11wTLjIa+sO5bcUlSNpApFsd2OUOF0WQbRD5AiBSmdnznSgqks9QhR8a49EdGZVMirh7Lm4ZJDNDemAHow==
