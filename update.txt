@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon
-version_code=44
-version_name=0.29.1
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.29.1.apk
-sha256=479746fb50329fd658dfff5831e486cd72c45f0aa541c212cd7bd7694efad135
-size=3080014
-published=2026-10-26T20:43:24Z
-notes_en=New: Steering wheel buttons. Give the Geely (Home) button and the two-windows button your own actions for a short and a long press. Off until you switch it on; nothing happens in reverse.\nLock and unlock the car from RayOn Remote (needs RayOn Remote 0.5.0).\nRear demister from the phone now works (engine running).\nClosing the sunroof no longer closes the shade.
-notes_fr=Nouveau : boutons du volant. Attribuez vos propres actions au bouton Geely (Accueil) et au bouton à deux fenêtres, pour un appui court et un appui long. Désactivé tant que vous ne l'activez pas ; rien ne se passe en marche arrière.\nVerrouillez et déverrouillez la voiture depuis RayOn Remote (nécessite RayOn Remote 0.5.0).\nLe dégivrage arrière depuis le téléphone fonctionne désormais (moteur en marche).\nFermer le toit ouvrant ne ferme plus le rideau.
-notes_ar=جديد: أزرار المقود. خصّص إجراءاتك لزر Geely (الشاشة الرئيسية) ولزر النافذتين، للضغطة القصيرة والمطوّلة. متوقفة حتى تشغّلها، ولا يحدث شيء عند التعشيق للخلف.\nاقفل السيارة وافتح قفلها من RayOn Remote (يتطلب RayOn Remote 0.5.0).\nإزالة الضباب الخلفي من الهاتف تعمل الآن (والمحرك يعمل).\nإغلاق فتحة السقف لم يعد يغلق الستارة.
-sig=MEUCIQClb28bGcIqLKw19RiPhxeRpR607Pm5wB/AZRa7kL1S3AIgOxvhy1vCBVt8Sn3w6LnFbskmCUKmDEQS6MP1hymXgIg=
+version_code=63
+version_name=0.34.4
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.34.4.apk
+sha256=275b7d0387d407a178f953d4313f92ecee49565b097e15cd6827db272ebd1ba3
+size=13108128
+published=2026-11-05T16:07:35Z
+notes_en=Voice control understands you again: repairs the Darija speech model installed on 5 November. RayOn now also reports why it restarted, if it ever does.
+notes_fr=La commande vocale vous comprend à nouveau : répare le modèle de reconnaissance darija installé le 5 novembre. RayOn signale aussi pourquoi il a redémarré, si cela arrive.
+notes_ar=التحكم الصوتي يفهمك من جديد: إصلاح نموذج التعرف على الدارجة المثبت يوم 5 نوفمبر. يبلغ RayOn أيضاً عن سبب إعادة تشغيله إن حدث ذلك.
+sig=MEYCIQDn5PCWt+4sBicWPdrJCyf3wAC0wt84qIuWnqaFIoHylwIhALfmgq7aTcKC0Y7hgjEeR8waYRg7LpcxylK2nVj1/Hq+
