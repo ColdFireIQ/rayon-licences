@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=17
-version_name=0.7.2
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.7.2.apk
-sha256=8f60ccad8acb7c1e31741d0a58e8fcc0c13d2f33e13f6a67b415e935314144a6
-size=5189327
-published=2026-10-27T07:17:03Z
-notes_en=When the car is switched off, the app now says so: the windows, the sunroof and the climate need the ignition on (locking works either way). Needs RayOn 0.31.1.
-notes_fr=Quand la voiture est éteinte, l'application le dit : les vitres, le toit ouvrant et la climatisation demandent le contact (le verrouillage fonctionne toujours). Nécessite RayOn 0.31.1.
-notes_ar=عندما تكون السيارة مطفأة، يخبرك التطبيق بذلك: النوافذ وفتحة السقف والتكييف تحتاج إلى تشغيل الإشعال (القفل يعمل دائماً). يتطلب RayOn 0.31.1.
-sig=MEQCIBrRJPHX11wTLjIa+sO5bcUlSNpApFsd2OUOF0WQbRD5AiBSmdnznSgqks9QhR8a49EdGZVMirh7Lm4ZJDNDemAHow==
+version_code=18
+version_name=0.8.0
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.8.0.apk
+sha256=29a3ca272a0948c33af672ac197ae0b95c8986b51d3f09671c22f82dc3cf37c3
+size=6191082
+published=2026-11-06T09:01:10Z
+notes_en=Voice: talk to your car from the phone with the new Voice tab (Gemini). Windows and sunroof open freely, also while driving.
+notes_fr=Voix : parlez à votre voiture depuis le téléphone avec le nouvel onglet Voix (Gemini). Fenêtres et toit s'ouvrent librement, même en roulant.
+notes_ar=الصوت: تحدّث مع سيارتك من الهاتف عبر تبويب الصوت الجديد (Gemini). النوافذ والسقف تُفتح بحرية حتى أثناء القيادة.
+sig=MEYCIQCqpH5i3Qnh3JstvJ9TZ2c9wEKUp5kQitkxZSadpcalAgIhAK4kkNDR+gRH5FGOQyQqCBBFluTLY+/VBLH4+BKW7feO
