@@ -1,5 +1,5 @@
 {
-    "version":  27,
+    "version":  28,
     "apps":  [
                  {
                      "package":  "app.organicmaps",
@@ -92,22 +92,6 @@
                      "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.bilang042.aureseyes/1.1/base.apk",
                      "sha256":  "92c64140c1e24414894425dd8c67439805507937805b1cc6a4437e4931fe0f51",
                      "size":  13540751
-                 },
-                 {
-                     "package":  "com.cybercat.acbridge",
-                     "title":  {
-                                   "en":  "ACBridge"
-                               },
-                     "summary":  {
-
-                                 },
-                     "version_code":  1,
-                     "version_name":  "1.6.0",
-                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.cybercat.acbridge/1.6.0/base.apk",
-                     "sha256":  "fd33a7e13bb0fcd4651ca0c92dc514c7c328beea2107f38e4f1319eeb168c351",
-                     "size":  954810,
-                     "icon":  "icons/com.cybercat.acbridge.png",
-                     "icon_sha256":  "6470ae2bdccabba9780715f7e52506a90b88a0dac860387279449df1d5dcda06"
                  },
                  {
                      "package":  "com.dmkcv.hvacmode",
@@ -432,6 +416,22 @@
                      "size":  60658121,
                      "icon":  "icons/xyz.netfly.png",
                      "icon_sha256":  "3e474dfc1c5965e8fb2dd478601613505a269aec8dc84cd44bfe42f1321e3793"
+                 },
+                 {
+                     "package":  "com.cybercat.acbridge",
+                     "title":  {
+                                   "en":  "ACBridge"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  1,
+                     "version_name":  "1.6.0",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.cybercat.acbridge/1.6.0/base.apk",
+                     "sha256":  "fd33a7e13bb0fcd4651ca0c92dc514c7c328beea2107f38e4f1319eeb168c351",
+                     "size":  954810,
+                     "icon":  "icons/com.cybercat.acbridge.png",
+                     "icon_sha256":  "6470ae2bdccabba9780715f7e52506a90b88a0dac860387279449df1d5dcda06"
                  }
              ]
 }
