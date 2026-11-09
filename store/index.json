@@ -1,0 +1,437 @@
+{
+    "version":  27,
+    "apps":  [
+                 {
+                     "package":  "app.organicmaps",
+                     "title":  {
+                                   "en":  "Organic Maps"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  24070803,
+                     "version_name":  "2024.07.08-3-Google",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/app.organicmaps/2024.07.08-3-Google/base.apk",
+                     "sha256":  "26cec8ad372ae95d24bc53796c7d01299da5116f98e98ac701349389a85b949f",
+                     "size":  114609865,
+                     "icon":  "icons/app.organicmaps.png",
+                     "icon_sha256":  "fcd77150375551a6431e5236b7c40367232603eba007b15e84217d09ef66fc3e"
+                 },
+                 {
+                     "package":  "cn.manstep.phonemirrorBox",
+                     "title":  {
+                                   "en":  "AutoKit"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  2112232222,
+                     "version_name":  "2025.03.19.1126",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/cn.manstep.phonemirrorBox/2025.03.19.1126/base.apk",
+                     "sha256":  "274ba98782f01ae81e3897bd3a17ce02e51013d81e85b1b53f6f869f6a8d3236",
+                     "size":  10046700,
+                     "icon":  "icons/cn.manstep.phonemirrorBox.png",
+                     "icon_sha256":  "3e91258a6872477addb6bb0f8395405a7fa6258aca645f855ca7788ff2f2a7de"
+                 },
+                 {
+                     "package":  "com.android.chrome",
+                     "title":  {
+                                   "en":  "Chrome"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  720417920,
+                     "version_name":  "138.0.7204.179",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.android.chrome/138.0.7204.179/base.apk",
+                     "sha256":  "3d9414001b3e2555831cd014df2c9ae5a6eab10190c4cffce7ecaad3c0f53f23",
+                     "size":  160143409
+                 },
+                 {
+                     "package":  "com.apkpure.aegon",
+                     "title":  {
+                                   "en":  "APKPure"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  1015868,
+                     "version_name":  "1.01.5806",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.apkpure.aegon/1.01.5806/base.apk",
+                     "sha256":  "378f521dc6d9136ea6689187b96b9fcb964f94adefbaea2f767e84ddfb9183e8",
+                     "size":  6062185,
+                     "icon":  "icons/com.apkpure.aegon.png",
+                     "icon_sha256":  "ef75445ca4cb0784b92f8fb920a14c208723e624103887145bfb6ba14e86ce8b"
+                 },
+                 {
+                     "package":  "com.ayah",
+                     "title":  {
+                                   "en":  "Ayah"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  5370,
+                     "version_name":  "5.3.7",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.ayah/5.3.7/base.apk",
+                     "sha256":  "fc8b763b15524062d10b052e99f6e1212a8273fbcfa9957912934bf406442317",
+                     "size":  67352808,
+                     "icon":  "icons/com.ayah.png",
+                     "icon_sha256":  "b7b1defb35fa60bed0299ea634873976b420ffd7e7cc449ecf99642a8da82dc3"
+                 },
+                 {
+                     "package":  "com.bilang042.aureseyes",
+                     "title":  {
+                                   "en":  "Aures Eyes"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  2,
+                     "version_name":  "1.1",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.bilang042.aureseyes/1.1/base.apk",
+                     "sha256":  "92c64140c1e24414894425dd8c67439805507937805b1cc6a4437e4931fe0f51",
+                     "size":  13540751
+                 },
+                 {
+                     "package":  "com.cybercat.acbridge",
+                     "title":  {
+                                   "en":  "ACBridge"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  1,
+                     "version_name":  "1.6.0",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.cybercat.acbridge/1.6.0/base.apk",
+                     "sha256":  "fd33a7e13bb0fcd4651ca0c92dc514c7c328beea2107f38e4f1319eeb168c351",
+                     "size":  954810,
+                     "icon":  "icons/com.cybercat.acbridge.png",
+                     "icon_sha256":  "6470ae2bdccabba9780715f7e52506a90b88a0dac860387279449df1d5dcda06"
+                 },
+                 {
+                     "package":  "com.dmkcv.hvacmode",
+                     "title":  {
+                                   "en":  "HVAC Mode"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  1,
+                     "version_name":  "1.0.0",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.dmkcv.hvacmode/1.0.0/base.apk",
+                     "sha256":  "2b1f7f51f3e7cd1fab4e6cdd1cf914a3ff3eb3ec31f246bd69f28a243de8127b",
+                     "size":  991499,
+                     "icon":  "icons/com.dmkcv.hvacmode.png",
+                     "icon_sha256":  "27ce7a6d6b8c4a921bf634cee734acaf5bddc79181736b9a08f09b63d1d6a95d"
+                 },
+                 {
+                     "package":  "com.dmkcv.sunray",
+                     "title":  {
+                                   "en":  "Sunray Toolkit"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  120,
+                     "version_name":  "1.4.1",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.dmkcv.sunray/1.4.1/base.apk",
+                     "sha256":  "e12de0df15ff9ba636bde1cd7a4fcaf124c97c5b06d9f85854707fbd91c9c8db",
+                     "size":  8002216
+                 },
+                 {
+                     "package":  "com.esaba.downloader",
+                     "title":  {
+                                   "en":  "Downloader"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  75,
+                     "version_name":  "2.0.4-ForAmazonFireDevices",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.esaba.downloader/2.0.4-ForAmazonFireDevices/base.apk",
+                     "sha256":  "e699ea1aa7b0a42291bdd650cf286f37b27be503082fce975d73b441f1b533a7",
+                     "size":  9827376
+                 },
+                 {
+                     "package":  "com.estrongs.android.pop",
+                     "title":  {
+                                   "en":  "ES File Explorer"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  15036,
+                     "version_name":  "4.4.2.2.1",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.estrongs.android.pop/4.4.2.2.1/base.apk",
+                     "sha256":  "0f9f18684653696b1146700046f12e313c01e9fd5b794db35f6ba913cbc7c853",
+                     "size":  36858203,
+                     "icon":  "icons/com.estrongs.android.pop.png",
+                     "icon_sha256":  "82672572ac96972a9e4e56717258c0651d296e707ae49309ce6bf81630ce3159"
+                 },
+                 {
+                     "package":  "com.google.android.projection.gearhead",
+                     "title":  {
+                                   "en":  "Android Auto"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  174663004,
+                     "version_name":  "17.4.663004-release",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.google.android.projection.gearhead/17.4.663004-release/base.apk",
+                     "sha256":  "28c0810a538001251f4707424216d1bbfc2628d1e522efb95eaac1c951e8e388",
+                     "size":  32690292,
+                     "files":  [
+                                   {
+                                       "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.google.android.projection.gearhead/17.4.663004-release/base.apk",
+                                       "sha256":  "28c0810a538001251f4707424216d1bbfc2628d1e522efb95eaac1c951e8e388",
+                                       "size":  22684351
+                                   },
+                                   {
+                                       "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.google.android.projection.gearhead/17.4.663004-release/split_config.arm64_v8a.apk",
+                                       "sha256":  "b57f18ed908ff57ab93cfbf475b9d2964bed652457f03bbf6661d59f0212c9bf",
+                                       "size":  6013655
+                                   },
+                                   {
+                                       "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.google.android.projection.gearhead/17.4.663004-release/split_config.en.apk",
+                                       "sha256":  "5ebcea36e5b8d7e400a9310c1f67507a18a1326879c2d9c0204280507133798d",
+                                       "size":  1306834
+                                   },
+                                   {
+                                       "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.google.android.projection.gearhead/17.4.663004-release/split_config.xxhdpi.apk",
+                                       "sha256":  "17217650ebe23680f49b48ae13096408daa467b39015de5d3761038639988024",
+                                       "size":  2685452
+                                   }
+                               ]
+                 },
+                 {
+                     "package":  "com.gps.navigation.maps.route.directions",
+                     "title":  {
+                                   "en":  "GPS Navigation \u0026 Maps"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  211011218,
+                     "version_name":  "1.12.18-1518",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.gps.navigation.maps.route.directions/1.12.18-1518/base.apk",
+                     "sha256":  "894b3ab67d9c351af4a3450cbb1e54475832b7ee94e66fb4d13e9885fac1444a",
+                     "size":  42150206,
+                     "icon":  "icons/com.gps.navigation.maps.route.directions.png",
+                     "icon_sha256":  "8a35651bb09b675aa64dacbbdaee9e1734f9ed4895ec8f453787ebba7a7d7e54"
+                 },
+                 {
+                     "package":  "com.hexputilities.youtubelite",
+                     "title":  {
+                                   "en":  "YouTube Lite"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  2,
+                     "version_name":  "1.1",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.hexputilities.youtubelite/1.1/base.apk",
+                     "sha256":  "eb277931eb330be0ce25f70b688012361f3fbc581cf4de5760981dddac5e25f0",
+                     "size":  1124342,
+                     "icon":  "icons/com.hexputilities.youtubelite.png",
+                     "icon_sha256":  "cb104ff4631c17aa252485b29e7ea25d9a0f43519cdc0d22a26ebc06595f81db"
+                 },
+                 {
+                     "package":  "com.ilv.vradio",
+                     "title":  {
+                                   "en":  "VRadio"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  90208008,
+                     "version_name":  "2.8.8",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.ilv.vradio/2.8.8/base.apk",
+                     "sha256":  "d56df684eff31bd71b61849efce6cfea0c2ad238ed795dbb5ed9e8822d63643e",
+                     "size":  17655187,
+                     "icon":  "icons/com.ilv.vradio.png",
+                     "icon_sha256":  "f994305439061f2259e8ea1bed4a84d90958ced32856df8fc8de127d50f85061"
+                 },
+                 {
+                     "package":  "com.quran.labs.androidquran",
+                     "title":  {
+                                   "en":  "Quran"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  3441,
+                     "version_name":  "3.4.4",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.quran.labs.androidquran/3.4.4/base.apk",
+                     "sha256":  "9f9cf6570a81431cae8f8acf78297c975eb2a13ec272503ce9eb1e432db1b0b9",
+                     "size":  8830439,
+                     "icon":  "icons/com.quran.labs.androidquran.png",
+                     "icon_sha256":  "b49f54489b5222a580de2f860954b90a8bcefc79ff45c1b572e740e94211cfa0"
+                 },
+                 {
+                     "package":  "com.salat.gsplit",
+                     "title":  {
+                                   "en":  "GSplit"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  20100,
+                     "version_name":  "2.0.1-Direct",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.salat.gsplit/2.0.1-Direct/base.apk",
+                     "sha256":  "1ca3f05850e0cd93dc2acb4a21c13620d700a042ca814a7de8619d3e79a76ce6",
+                     "size":  4239815
+                 },
+                 {
+                     "package":  "com.sneig.livedrama",
+                     "title":  {
+                                   "en":  "Drama Live"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  187,
+                     "version_name":  "13.0.3",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.sneig.livedrama/13.0.3/base.apk",
+                     "sha256":  "a3ab61b5aaa6adf028358db75415158484500eee9ea36461d0605368e8f78d55",
+                     "size":  30524011,
+                     "icon":  "icons/com.sneig.livedrama.png",
+                     "icon_sha256":  "5d6e227a699d63e45e0f579f2f8a0f32c9555649da964fd2aebe484cb08791f7"
+                 },
+                 {
+                     "package":  "com.touchtype.swiftkey",
+                     "title":  {
+                                   "en":  "Microsoft SwiftKey Keyboard"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  1230831920,
+                     "version_name":  "9.10.29.19",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.touchtype.swiftkey/9.10.29.19/base.apk",
+                     "sha256":  "6c387f16c44e580494f6acfaec94cedca7630950d8935b209e16de04175f104f",
+                     "size":  67946121
+                 },
+                 {
+                     "package":  "com.ytv.pronew",
+                     "title":  {
+                                   "en":  "YTV PRO"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  15,
+                     "version_name":  "12.0",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.ytv.pronew/12.0/base.apk",
+                     "sha256":  "3e068331eb78cb13fca5b3bf70a00f951c60be4fae460112bdc1c6c34479e8b7",
+                     "size":  9123568
+                 },
+                 {
+                     "package":  "com.zhiliaoapp.musically.go",
+                     "title":  {
+                                   "en":  "TikTok Lite"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  400423,
+                     "version_name":  "40.4.23",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.zhiliaoapp.musically.go/40.4.23/base.apk",
+                     "sha256":  "31cacd625f62ba6c62f9fb49c393ca0c1f1b05f4b89bd49a0df3117099ecec19",
+                     "size":  18133635,
+                     "icon":  "icons/com.zhiliaoapp.musically.go.png",
+                     "icon_sha256":  "5c74fda6c86ec86820b13121d13edaa29f7830b87c79a5a2ddb0038e80232e8c"
+                 },
+                 {
+                     "package":  "dz.radioalgerie.algerian_radio",
+                     "title":  {
+                                   "en":  "Algerian radio"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  79,
+                     "version_name":  "1.0.4",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/dz.radioalgerie.algerian_radio/1.0.4/base.apk",
+                     "sha256":  "8314f6bb788787b85f93d29a7a424d75203758c05a5631af317d8d78e0b8c49b",
+                     "size":  19436742,
+                     "icon":  "icons/dz.radioalgerie.algerian_radio.png",
+                     "icon_sha256":  "60dc8498fdbf99c11262ce011400b54b6274728caaa5443cdf4834f9ebb6a15c"
+                 },
+                 {
+                     "package":  "org.smarttube.stable",
+                     "title":  {
+                                   "en":  "SmartTube"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  2280,
+                     "version_name":  "30.90",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/org.smarttube.stable/30.90/base.apk",
+                     "sha256":  "0f0de30f20fc26bac73c7eee6671cb7a6aba0524c8d73257c962813ecedceb4e",
+                     "size":  41796990,
+                     "icon":  "icons/org.smarttube.stable.png",
+                     "icon_sha256":  "b9f977832d162f1a9e65e2df6fb6a1ae352121073563b43e1837f8fbcf79601b"
+                 },
+                 {
+                     "package":  "ru.yandex.androidkeyboard",
+                     "title":  {
+                                   "en":  "Yandex Keyboard"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  30390300,
+                     "version_name":  "39.3",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/ru.yandex.androidkeyboard/39.3/base.apk",
+                     "sha256":  "a57433444454affcef6fd1d066bdb9c47a5682ff73e27127e19626722d834895",
+                     "size":  60824089
+                 },
+                 {
+                     "package":  "sa.edu.ksu.Ayat",
+                     "title":  {
+                                   "en":  "Ayat"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  408,
+                     "version_name":  "4.0.1",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/sa.edu.ksu.Ayat/4.0.1/base.apk",
+                     "sha256":  "f15f1b40cfb550e929cb7ba37b0364512ee1def05f051b7dcfe111f5f5e848a2",
+                     "size":  10624739
+                 },
+                 {
+                     "package":  "ver3.ycntivi.off",
+                     "title":  {
+                                   "en":  "Yacine TV"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  4,
+                     "version_name":  "3.1",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/ver3.ycntivi.off/3.1/base.apk",
+                     "sha256":  "0cbc222443477b45edbfd4d15033868d910d3758cae38c22204771677ec2de1b",
+                     "size":  8802898
+                 },
+                 {
+                     "package":  "xyz.netfly",
+                     "title":  {
+                                   "en":  "NETFLY"
+                               },
+                     "summary":  {
+
+                                 },
+                     "version_code":  1,
+                     "version_name":  "2.4.0",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/xyz.netfly/2.4.0/base.apk",
+                     "sha256":  "7d67c9ca5636c9b11c20542537da1e9e53967b6c29b0b068e332733d3095f82c",
+                     "size":  60658121,
+                     "icon":  "icons/xyz.netfly.png",
+                     "icon_sha256":  "3e474dfc1c5965e8fb2dd478601613505a269aec8dc84cd44bfe42f1321e3793"
+                 }
+             ]
+}
