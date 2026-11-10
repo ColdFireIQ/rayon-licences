@@ -1,5 +1,5 @@
 {
-    "version":  28,
+    "version":  29,
     "apps":  [
                  {
                      "package":  "app.organicmaps",
@@ -432,6 +432,26 @@
                      "size":  954810,
                      "icon":  "icons/com.cybercat.acbridge.png",
                      "icon_sha256":  "6470ae2bdccabba9780715f7e52506a90b88a0dac860387279449df1d5dcda06"
+                 },
+                 {
+                     "package":  "dev.coldfire.rayon.sound",
+                     "title":  {
+                                   "en":  "RayOn Sound",
+                                   "fr":  "RayOn Sound",
+                                   "ar":  "RayOn Sound"
+                               },
+                     "summary":  {
+                                     "en":  "Real engine sounds that follow your car\u0027s RPM",
+                                     "fr":  "Vrais sons moteur qui suivent le régime de la voiture",
+                                     "ar":  "أصوات محركات حقيقية تتبع دوران محرك سيارتك"
+                                 },
+                     "version_code":  2,
+                     "version_name":  "0.2.0",
+                     "file":  "apps/dev.coldfire.rayon.sound-0.2.0.apk",
+                     "sha256":  "91528e1a793245fb5df5710109d9f1ebb54d32a28e800de13d3004af38f4983a",
+                     "size":  4034854,
+                     "icon":  "icons/dev.coldfire.rayon.sound.png",
+                     "icon_sha256":  "d33a706a3df624b1574a98e941ee1752ea6cf52abb50185f69636569b5ad8c10"
                  }
              ]
 }

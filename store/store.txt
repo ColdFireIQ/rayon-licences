@@ -2,9 +2,9 @@
 format=1
 kind=store
 app=dev.coldfire.rayon.store
-version=28
+version=29
 index=index.json
-index_sha256=875554c0882e309e963310390958fb6c74b3d5d165dc647f950dcf52db824896
-index_size=22288
-issued=2026-11-09T17:23:10Z
-sig=MEUCIQCXd+/t4VTIyD9587KKPZOtw52tTaGwpmKmrq+swNrq7gIgFw70zUb6FYh1yVuai2Y3Pqg/8vX6S9HHWCvMSoy/xN8=
+index_sha256=b92ad5db52532309e119c3a007f274ece4f390e9e12819bc8faad9ebbaa5367e
+index_size=23493
+issued=2026-11-10T08:00:20Z
+sig=MEYCIQCehDwEvDHHSUuIhYfSYueS6xvxqJWSuFV5N8yMFSNCIwIhAJsoKM+Kxf6Kwv3oDC4qcrguceORb8Kr9TwrHEnnHGe7
