@@ -1,5 +1,5 @@
 {
-    "version":  29,
+    "version":  30,
     "apps":  [
                  {
                      "package":  "app.organicmaps",
@@ -452,6 +452,22 @@
                      "size":  4034854,
                      "icon":  "icons/dev.coldfire.rayon.sound.png",
                      "icon_sha256":  "d33a706a3df624b1574a98e941ee1752ea6cf52abb50185f69636569b5ad8c10"
+                 },
+                 {
+                     "package":  "com.andrerinas.headunitrevived",
+                     "title":  {
+                                   "en":  "Open Headunit"
+                               },
+                     "summary":  {
+                                     "en":  "Android Auto on the car screen (cable or wireless)",
+                                     "fr":  "Android Auto sur l\u0027écran de la voiture (câble ou sans fil)",
+                                     "ar":  "أندرويد أوتو على شاشة السيارة (بالكابل أو لاسلكي)"
+                                 },
+                     "version_code":  123,
+                     "version_name":  "4.0.0",
+                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.andrerinas.headunitrevived/4.0.0/com.andrerinas.headunitrevived_4.0.0.apk",
+                     "sha256":  "5e6ac16c528d06a26b6ce764cf56a6e26dc72b70d45a4df1e64239c74e0db908",
+                     "size":  21005052
                  }
              ]
 }
