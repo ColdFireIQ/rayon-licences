@@ -1,5 +1,5 @@
 {
-    "version":  30,
+    "version":  31,
     "apps":  [
                  {
                      "package":  "app.organicmaps",
@@ -467,7 +467,9 @@
                      "version_name":  "4.0.0",
                      "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/com.andrerinas.headunitrevived/4.0.0/com.andrerinas.headunitrevived_4.0.0.apk",
                      "sha256":  "5e6ac16c528d06a26b6ce764cf56a6e26dc72b70d45a4df1e64239c74e0db908",
-                     "size":  21005052
+                     "size":  21005052,
+                     "icon":  "icons/com.andrerinas.headunitrevived.png",
+                     "icon_sha256":  "52ec4fa92e64540d108bab1f88d7e0d4f000ce42911b62407174d7a3152adccd"
                  }
              ]
 }
