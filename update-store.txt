@@ -1,0 +1,14 @@
+# RayOn update notice. Signed: editing any line breaks it. Nothing installs without a tap.
+format=1
+kind=update
+app=dev.coldfire.rayon.store
+version_code=8
+version_name=1.0.7
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.store-1.0.7.apk
+sha256=00bf82dd635a5e84db3cfc55543f81485091520b0a30f61e6cdbb1e23d10ed7c
+size=86930
+published=2026-11-18T18:18:08Z
+notes_en=Apps from the Store now open normally, including YouTube Lite.
+notes_fr=Les applications du Store s'ouvrent maintenant normalement, y compris YouTube Lite.
+notes_ar=تفتح تطبيقات المتجر الآن بشكل طبيعي، بما في ذلك YouTube Lite.
+sig=MEUCICsL3rL+Cx5nbtp46l0C/BZeYuuqDJsq8O/UvaAs3haiAiEAwowWxfF5EYQvjQ2ziqQ3v2C5L0Q2YfX4Ii7ZlvI/shg=
