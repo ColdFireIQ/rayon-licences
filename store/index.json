@@ -1,5 +1,5 @@
 {
-    "version":  35,
+    "version":  36,
     "apps":  [
                  {
                      "package":  "app.organicmaps",
@@ -483,11 +483,11 @@
                                      "fr":  "Dashcam quatre caméras : enregistrement en boucle, détection des chocs et freinages brusques, vitesse, rapport, clignotants et moteur sur la vidéo.",
                                      "ar":  "كاميرا قيادة بأربع كاميرات: تسجيل متواصل، كشف الصدمات والفرملة القوية، السرعة وناقل الحركة والإشارات والمحرك على الفيديو."
                                  },
-                     "version_code":  15,
-                     "version_name":  "0.5.4",
-                     "file":  "https://pub-9cd1a9b54cf349228dce6ec8993a1875.r2.dev/apps/dev.coldfire.rayon.dashcam/0.5.4/dashcam-release.apk",
-                     "sha256":  "193721263fc6b221336e504e1bd817892bcffb1a25336368acf837f4a7dd1370",
-                     "size":  176222,
+                     "version_code":  16,
+                     "version_name":  "0.5.5",
+                     "file":  "apps/dev.coldfire.rayon.dashcam-0.5.5.apk",
+                     "sha256":  "ff4c5e8e9c9c346f398c20277687c2c65ff5a907490a1dc13102427443915b2c",
+                     "size":  193122,
                      "icon":  "icons/dev.coldfire.rayon.dashcam.png",
                      "icon_sha256":  "b9f803e092a466a8db670bd6737740d1931132d97819394cc68c1914ea29b25d"
                  }
