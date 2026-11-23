@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon
-version_code=83
-version_name=0.40.2
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.40.2.apk
-sha256=9c72e41cfe738486d2f4c258eb00ef7726a962987fc900a12fdc398ecf7fece4
-size=6076682
-published=2026-11-23T07:42:35Z
-notes_en=Send your own Gemini key from your phone (QR code or RayOn Remote). The wake word no longer triggers in the middle of a conversation. The home card follows day/night mode at once. Arabic text, voice and other fixes.
-notes_fr=Envoyez votre propre clé Gemini depuis votre téléphone (QR code ou RayOn Remote). Le mot d'activation ne se déclenche plus en pleine conversation. La carte d'accueil suit aussitôt le mode jour/nuit. Corrections pour l'arabe, la voix et plus.
-notes_ar=أرسل مفتاح Gemini الخاص بك من هاتفك (رمز QR أو RayOn Remote). كلمة التنبيه لم تعد تنطلق وسط المحادثة. بطاقة الشاشة الرئيسية تتبع وضع النهار/الليل فورًا. إصلاحات للعربية والصوت وغيرها.
-sig=MEUCIQCdU83ZVTkW3b35vnl8DLDiPTqf2hmIkN3P3Wb41rirdgIgMRwaaiNKvMvxT8BkdY2W/d+rSv1t4lQfXZHbBerJyMc=
+version_code=85
+version_name=0.40.4
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.40.4.apk
+sha256=bef5d34881a33ad7b090fedadda7bd8b1b4a04c0a93c4a23bdc1f94114e5510c
+size=6082002
+published=2026-11-23T16:18:45Z
+notes_en=Your home-screen widgets stay in place after RayOn updates. Auto screen-off fixes, translation fixes.
+notes_fr=Vos widgets de l'écran d'accueil restent en place après les mises à jour de RayOn. Corrections de la mise en veille automatique et des traductions.
+notes_ar=ودجات الشاشة الرئيسية تبقى في مكانها بعد تحديثات RayOn. إصلاحات لإطفاء الشاشة التلقائي والترجمات.
+sig=MEUCICXUncVt0feZwqpXnvYidsXffzZyZGJASu+UH3V7xxJ/AiEA+8ABEGqunwC8+2RAtq1QsAXta0NJbBypH+l3FVbEKpg=
