@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=20
-version_name=0.9.1
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.9.1.apk
-sha256=dcb3e905b1c64ab872652be2b82b647330aebf2a86b89bb39e45b8e7713f44a7
-size=6214478
-published=2026-11-23T20:00:40Z
-notes_en=Accepts the new Gemini keys that start with AQ.
-notes_fr=Accepte les nouvelles clés Gemini qui commencent par AQ.
-notes_ar=يقبل مفاتيح Gemini الجديدة التي تبدأ بـ AQ.
-sig=MEQCIFGptnUOb0TDiw9GFyL3cGMBiTw5c5R5weTCuN7ucw4pAiBATizDdT3IwdfU8u2H81LRQAJnZKl0meGNdOZGh967Aw==
+version_code=21
+version_name=0.9.2
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.9.2.apk
+sha256=271988f398073fae5383724fae0cede3d324a29a507d19207ea0a03c059dba2b
+size=6214314
+published=2026-11-23T20:13:17Z
+notes_en=Accepts every kind of Gemini key.
+notes_fr=Accepte tous les types de clés Gemini.
+notes_ar=يقبل جميع أنواع مفاتيح Gemini.
+sig=MEQCIBrCRV+Vgo/HUys5SDqwTK49b5CKYsLvmLeV4jVEdKoIAiAaut33c5ZFqV19nvRrPAhR0M9ecAcHJMLImktMKU0z8Q==
