@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=19
-version_name=0.9.0
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.9.0.apk
-sha256=5b98d7b87ec1af0cb04bf8c48384e1731fdcc98a4f58ffbe2e2ac7f1753c617d
-size=6214314
-published=2026-11-19T18:27:47Z
-notes_en=Send your own Gemini key to the car from the Voice tab.
-notes_fr=Envoyez votre propre clé Gemini à la voiture depuis l'onglet Voix.
-notes_ar=أرسل مفتاح Gemini الخاص بك إلى السيارة من تبويب الصوت.
-sig=MEYCIQDw7fud1mg8Lx6/qXUYX5E0/a3Cb4a5A7QGwitQdnQMuAIhAOkc0mUpvYPzPfOoWQubCmgO3Cg37YopuJoKyQpZcQb2
+version_code=20
+version_name=0.9.1
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.9.1.apk
+sha256=dcb3e905b1c64ab872652be2b82b647330aebf2a86b89bb39e45b8e7713f44a7
+size=6214478
+published=2026-11-23T20:00:40Z
+notes_en=Accepts the new Gemini keys that start with AQ.
+notes_fr=Accepte les nouvelles clés Gemini qui commencent par AQ.
+notes_ar=يقبل مفاتيح Gemini الجديدة التي تبدأ بـ AQ.
+sig=MEQCIFGptnUOb0TDiw9GFyL3cGMBiTw5c5R5weTCuN7ucw4pAiBATizDdT3IwdfU8u2H81LRQAJnZKl0meGNdOZGh967Aw==
