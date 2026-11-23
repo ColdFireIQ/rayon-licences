@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon
-version_code=85
-version_name=0.40.4
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.40.4.apk
-sha256=bef5d34881a33ad7b090fedadda7bd8b1b4a04c0a93c4a23bdc1f94114e5510c
-size=6082002
-published=2026-11-23T16:18:45Z
-notes_en=Your home-screen widgets stay in place after RayOn updates. Auto screen-off fixes, translation fixes.
-notes_fr=Vos widgets de l'écran d'accueil restent en place après les mises à jour de RayOn. Corrections de la mise en veille automatique et des traductions.
-notes_ar=ودجات الشاشة الرئيسية تبقى في مكانها بعد تحديثات RayOn. إصلاحات لإطفاء الشاشة التلقائي والترجمات.
-sig=MEUCICXUncVt0feZwqpXnvYidsXffzZyZGJASu+UH3V7xxJ/AiEA+8ABEGqunwC8+2RAtq1QsAXta0NJbBypH+l3FVbEKpg=
+version_code=86
+version_name=0.40.5
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.40.5.apk
+sha256=23461d2c6cf456a39b38bcfedd45e6e6b04e8d41baacac9a032cfdcb1cce2879
+size=6082490
+published=2026-11-23T20:14:23Z
+notes_en=Accepts every kind of Gemini key. Your home-screen widgets stay in place after RayOn updates.
+notes_fr=Accepte tous les types de clés Gemini. Vos widgets de l'écran d'accueil restent en place après les mises à jour de RayOn.
+notes_ar=يقبل جميع أنواع مفاتيح Gemini. ودجات الشاشة الرئيسية تبقى في مكانها بعد تحديثات RayOn.
+sig=MEUCIQCPsbKf70f3VFVnkIFy1Q4cDeEOj1Nk9xo1xo9vWm66HQIgE5S+WVmu6l+EBXCQhH5WQynf9QFYLfxj/iObJoM1+vc=
