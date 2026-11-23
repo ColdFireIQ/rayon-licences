@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.store
-version_code=8
-version_name=1.0.7
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.store-1.0.7.apk
-sha256=00bf82dd635a5e84db3cfc55543f81485091520b0a30f61e6cdbb1e23d10ed7c
-size=86930
-published=2026-11-18T18:18:08Z
-notes_en=Apps from the Store now open normally, including YouTube Lite.
-notes_fr=Les applications du Store s'ouvrent maintenant normalement, y compris YouTube Lite.
-notes_ar=تفتح تطبيقات المتجر الآن بشكل طبيعي، بما في ذلك YouTube Lite.
-sig=MEUCICsL3rL+Cx5nbtp46l0C/BZeYuuqDJsq8O/UvaAs3haiAiEAwowWxfF5EYQvjQ2ziqQ3v2C5L0Q2YfX4Ii7ZlvI/shg=
+version_code=9
+version_name=1.0.8
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.store-1.0.8.apk
+sha256=1ba1c90073263a65dfc01580e2d9cbfa9397513cc93b5c7b566e72d6432e0b01
+size=93206
+published=2026-11-23T07:55:14Z
+notes_en=New look: RayOn apps on top, and only the version of each app made for your car.
+notes_fr=Nouveau look : les apps RayOn en haut, et seulement la version de chaque app faite pour votre voiture.
+notes_ar=مظهر جديد: تطبيقات RayOn في الأعلى، وفقط نسخة كل تطبيق المصنوعة لسيارتك.
+sig=MEUCIQD8L+tDrU3bPFJMxPWiqw9csXkeym63YpvLq6yDatVFSwIgKN41DT9Gq8sS5BcXhRFwIvrbRgIYWlqrhzteIkTBwdE=
