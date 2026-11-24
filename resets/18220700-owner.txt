@@ -1,0 +1,9 @@
+# RayOn owner reset for one car. Signed: editing any line breaks it. Applies once, until it expires.
+format=1
+kind=owner-reset
+action=owner-reset
+car=18220700
+reset_id=bd4ad927994e2ee3
+issued=2026-11-24T20:44:39Z
+expires=2026-12-01T20:44:39Z
+sig=MEYCIQDJF+bmhqolOH9xJJsVGgHI0z5qdqSFQlTifvZWi2eo5QIhAMhBUf6Sh9nWjqIeZTkZkxzgZJIDjzGbOgRK7KCRuAm6
