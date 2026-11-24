@@ -1,0 +1,9 @@
+# RayOn garage PIN reset for one car. Signed: editing any line breaks it. Applies once, until it expires.
+format=1
+kind=owner-reset
+action=garage-pin
+car=18220700
+reset_id=3c62c45fe2367ad6
+issued=2026-11-24T20:44:56Z
+expires=2026-12-01T20:44:56Z
+sig=MEQCIFxg3KrrvrCjKVTTb6S7VudjGevckl2tKFvqf8C/loXOAiBx+rtNb95Hk9IN0jjnGiQXHPQfvn8R/Teml3IMUjXvsQ==
