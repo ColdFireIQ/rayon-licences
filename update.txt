@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon
-version_code=86
-version_name=0.40.5
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.40.5.apk
-sha256=23461d2c6cf456a39b38bcfedd45e6e6b04e8d41baacac9a032cfdcb1cce2879
-size=6082490
-published=2026-11-23T20:14:23Z
-notes_en=Accepts every kind of Gemini key. Your home-screen widgets stay in place after RayOn updates.
-notes_fr=Accepte tous les types de clés Gemini. Vos widgets de l'écran d'accueil restent en place après les mises à jour de RayOn.
-notes_ar=يقبل جميع أنواع مفاتيح Gemini. ودجات الشاشة الرئيسية تبقى في مكانها بعد تحديثات RayOn.
-sig=MEUCIQCPsbKf70f3VFVnkIFy1Q4cDeEOj1Nk9xo1xo9vWm66HQIgE5S+WVmu6l+EBXCQhH5WQynf9QFYLfxj/iObJoM1+vc=
+version_code=87
+version_name=0.40.6
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.40.6.apk
+sha256=dff1c93b1228498ef8756bb3f117d4017300f8ef4680e756c3ba5d2931376410
+size=6083210
+published=2026-11-24T00:44:17Z
+notes_en=Owner phone reset can now be done by licence number.
+notes_fr=La réinitialisation du téléphone du propriétaire peut maintenant se faire par numéro de licence.
+notes_ar=يمكن الآن إعادة تعيين هاتف المالك برقم الترخيص.
+sig=MEYCIQC53POileF6cXjbil0x8J4mbpPo851uPPjY6Lhylbh7GwIhAJONiaStoXA7rWI/uA3xux2T/8spgVlTh+gfIZMyBqUx
