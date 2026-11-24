@@ -3,7 +3,7 @@ format=1
 kind=owner-reset
 action=garage-pin
 car=18220700
-reset_id=cbd6ff21d478a636
-issued=2026-11-24T20:52:40Z
-expires=2026-12-01T20:52:40Z
-sig=MEUCIGass+dt0ao2vyeHAqByZjZ2fzYMpYnnNMXmX2U6UO1wAiEAhbNROxL3hjWoXGyxw/HeDHn0A1ctIs3Oetqzv6hG6KM=
+reset_id=dc2f86e05d53d3b5
+issued=2026-11-24T20:53:29Z
+expires=2026-12-01T20:53:29Z
+sig=MEYCIQDEZ2//Z7DFcXmVgstSfqIuSSor2SHmxcbj6jXR9w4lrgIhAMXCoQhzmj78sUypClYjSopszVlmzTzNG6IOqhCAFB4D
