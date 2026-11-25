@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=21
-version_name=0.9.2
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.9.2.apk
-sha256=271988f398073fae5383724fae0cede3d324a29a507d19207ea0a03c059dba2b
-size=6214314
-published=2026-11-23T20:13:17Z
-notes_en=Accepts every kind of Gemini key.
-notes_fr=Accepte tous les types de clés Gemini.
-notes_ar=يقبل جميع أنواع مفاتيح Gemini.
-sig=MEQCIBrCRV+Vgo/HUys5SDqwTK49b5CKYsLvmLeV4jVEdKoIAiAaut33c5ZFqV19nvRrPAhR0M9ecAcHJMLImktMKU0z8Q==
+version_code=22
+version_name=0.9.3
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.9.3.apk
+sha256=e2c0b8520d5cbe85213d4afef133bade6208196ac81b1f2281232a2415bbf4da
+size=6214678
+published=2026-11-25T09:27:50Z
+notes_en=The voice assistant now only speaks Darija, Arabic, French or English.
+notes_fr=L'assistant vocal ne parle plus que darija, arabe, français ou anglais.
+notes_ar=المساعد الصوتي يتكلم الآن بالدارجة والعربية والفرنسية والإنجليزية فقط.
+sig=MEUCIFGD2vF6W+ZOFj1tmfRw3GgEiZwwIUYkO3CH5jiHW3oUAiEA36XoGromP5Iog3aoEkbYitWpa+xsnwls4H748td0M34=
