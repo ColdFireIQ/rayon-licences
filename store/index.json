@@ -1,5 +1,5 @@
 {
-    "version":  36,
+    "version":  37,
     "apps":  [
                  {
                      "package":  "app.organicmaps",
@@ -490,6 +490,26 @@
                      "size":  193122,
                      "icon":  "icons/dev.coldfire.rayon.dashcam.png",
                      "icon_sha256":  "b9f803e092a466a8db670bd6737740d1931132d97819394cc68c1914ea29b25d"
+                 },
+                 {
+                     "package":  "dev.coldfire.rayon.garage",
+                     "title":  {
+                                   "en":  "RayOn Garage",
+                                   "fr":  "RayOn Garage",
+                                   "ar":  "RayOn Garage"
+                               },
+                     "summary":  {
+                                     "en":  "Your car\u0027s maintenance book: oil, filters, brakes, tyres and more, with what is due next by distance and time.",
+                                     "fr":  "Le carnet d\u0027entretien de la voiture : vidange, filtres, freins, pneus et plus, avec ce qui arrive ensuite selon les kilomètres et le temps.",
+                                     "ar":  "دفتر صيانة سيارتك: الزيت والفلاتر والفرامل والعجلات وغيرها، مع ما يحين موعده حسب المسافة والوقت."
+                                 },
+                     "version_code":  4,
+                     "version_name":  "0.3.0",
+                     "file":  "apps/dev.coldfire.rayon.garage-0.3.0.apk",
+                     "sha256":  "d75aee15c7b3be536d972c3c5618d087fcfa1cf94f8a52c5e603b922707ecf00",
+                     "size":  179487,
+                     "icon":  "icons/dev.coldfire.rayon.garage.png",
+                     "icon_sha256":  "9c4cead6eacb95be81d5bcbaed721c65c449b04db42d27c3759a74dcb7159257"
                  }
              ]
 }
