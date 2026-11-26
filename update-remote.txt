@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=24
-version_name=0.10.1
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.10.1.apk
-sha256=ed8c900e4635963224f2282168407da133d8c0b16b161f4799a899e5a2c31192
-size=6240346
-published=2026-11-26T16:30:24Z
-notes_en=Remote help now shows the car code that turns on wireless debugging.
-notes_fr=L'assistance à distance affiche le code qui active le débogage sans fil de la voiture.
-notes_ar=تعرض المساعدة عن بعد الرمز الذي يفعّل التصحيح اللاسلكي في السيارة.
-sig=MEYCIQCGcnFBwEQK+3SMRni2NMdCLtHId8tK6Kksc2CM7j7gSQIhAIJodKRUZEXY6MVZuOaD/qGoLWPrwXd37RD+7FZ/X38c
+version_code=25
+version_name=0.10.2
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.10.2.apk
+sha256=26df463f14d9fb96eeb40f8af208d54da5ad97c07306d83384a57f73613d08f1
+size=6237614
+published=2026-11-26T16:56:57Z
+notes_en=Remote help: simpler steps.
+notes_fr=Assistance à distance : étapes simplifiées.
+notes_ar=المساعدة عن بعد: خطوات أبسط.
+sig=MEUCIQCXT7V/Vp+uW2sUzP1Z3+gSOWowbThp/lxsPfV+1SybhQIgMxB720L4jg4bXQnI4hIAO+6DR48ff6CUhqwNwHVeypw=
