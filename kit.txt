@@ -1,8 +1,8 @@
 # RayOn phone installer kit. Signed: editing any line breaks it.
 format=1
 kind=kit
-published=2026-11-26T11:56:35Z
-apk_1=user|dev.coldfire.rayon|0.40.10|kit/dev.coldfire.rayon-0.40.10.apk|919b9333f75e732da9e266cf81cc57cc6b1d396f996c82f06679de1087d01c0d|9282297
+published=2026-11-26T21:16:40Z
+apk_1=user|dev.coldfire.rayon|0.41.1|kit/dev.coldfire.rayon-0.41.1.apk|b41032966748ba46ea1403899a21afaee5eabc14d0de2eac90f76253e09ec5a5|14921766
 apk_2=overlay|dev.coldfire.rayon.launcheroverlay|0.13.0|kit/dev.coldfire.rayon.launcheroverlay-0.13.0.apk|114ad2d7c94acf320819d095f98eb94f34a5a11c941c63d988a0349524170644|2105514
 apk_3=guard|dev.coldfire.rayon.guard|1.0.0|kit/dev.coldfire.rayon.guard-1.0.0.apk|b2526693d73aa76becf0b85bb3dc69f589620361c1b183e8564c3fdf8dec1e6d|24978
 apk_4=pack|dev.coldfire.tr.com.android.dialer|903cfb8d|kit/dev.coldfire.tr.com.android.dialer-903cfb8d.apk|903cfb8d73e58177a7032238c0cf0018ad600439e4c5310e8b4427b6a63c6a73|291162
@@ -29,4 +29,4 @@ apk_24=pack|dev.coldfire.tr.com.flyme.auto.weather|78b8ade2|kit/dev.coldfire.tr.
 apk_25=pack|dev.coldfire.tr.com.geely.linkhmi|9c9a7a0f|kit/dev.coldfire.tr.com.geely.linkhmi-9c9a7a0f.apk|9c9a7a0fee4505f0dc1e10e7d09009f4155ce1e324dff7d303dfaacbb0159773|115034
 apk_26=pack|dev.coldfire.tr.ecarx.naviservice|422b2e73|kit/dev.coldfire.tr.ecarx.naviservice-422b2e73.apk|422b2e737ca8337e74c636f771a21a9433a91f75f5d7b984b38bd3f232108b83|24922
 apk_27=pack|dev.coldfire.tr.ecarx.xsf.mediacenter|170e580d|kit/dev.coldfire.tr.ecarx.xsf.mediacenter-170e580d.apk|170e580d0e602035adbf6d157e95cb070255797d0e32e86d3a8f4fefb5b02526|29018
-sig=MEUCIQD2eho4j26Zbo0ssddj1H0iXs5fpYczK1VML57kV1PxQwIgOOaKlM6qR1s95rrgvS53zKtVY53Zhl4IPCF3yGSmySw=
+sig=MEUCIGaF8zCHnzLnwR1lbvSV3emXRoXJhvdQhdZOIaW9gEs0AiEA3aiZjSFuERIMArMKiWMRCuiO/BUTwcvJADfY6HO6qsM=
