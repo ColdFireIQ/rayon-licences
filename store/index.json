@@ -1,5 +1,5 @@
 {
-    "version":  37,
+    "version":  38,
     "apps":  [
                  {
                      "package":  "app.organicmaps",
@@ -472,26 +472,6 @@
                      "icon_sha256":  "52ec4fa92e64540d108bab1f88d7e0d4f000ce42911b62407174d7a3152adccd"
                  },
                  {
-                     "package":  "dev.coldfire.rayon.dashcam",
-                     "title":  {
-                                   "en":  "RayOn Dashcam",
-                                   "fr":  "RayOn Dashcam",
-                                   "ar":  "RayOn Dashcam"
-                               },
-                     "summary":  {
-                                     "en":  "Four-camera dashcam: loop recording, shock and hard-braking detection, speed, gear, indicators and engine on the video.",
-                                     "fr":  "Dashcam quatre caméras : enregistrement en boucle, détection des chocs et freinages brusques, vitesse, rapport, clignotants et moteur sur la vidéo.",
-                                     "ar":  "كاميرا قيادة بأربع كاميرات: تسجيل متواصل، كشف الصدمات والفرملة القوية، السرعة وناقل الحركة والإشارات والمحرك على الفيديو."
-                                 },
-                     "version_code":  16,
-                     "version_name":  "0.5.5",
-                     "file":  "apps/dev.coldfire.rayon.dashcam-0.5.5.apk",
-                     "sha256":  "ff4c5e8e9c9c346f398c20277687c2c65ff5a907490a1dc13102427443915b2c",
-                     "size":  193122,
-                     "icon":  "icons/dev.coldfire.rayon.dashcam.png",
-                     "icon_sha256":  "b9f803e092a466a8db670bd6737740d1931132d97819394cc68c1914ea29b25d"
-                 },
-                 {
                      "package":  "dev.coldfire.rayon.garage",
                      "title":  {
                                    "en":  "RayOn Garage",
@@ -510,6 +490,26 @@
                      "size":  179487,
                      "icon":  "icons/dev.coldfire.rayon.garage.png",
                      "icon_sha256":  "9c4cead6eacb95be81d5bcbaed721c65c449b04db42d27c3759a74dcb7159257"
+                 },
+                 {
+                     "package":  "dev.coldfire.rayon.dashcam",
+                     "title":  {
+                                   "en":  "RayOn Dashcam",
+                                   "fr":  "RayOn Dashcam",
+                                   "ar":  "RayOn Dashcam"
+                               },
+                     "summary":  {
+                                     "en":  "Four-camera dashcam: loop recording, shock and hard-braking detection, speed, gear, indicators and engine on the video.",
+                                     "fr":  "Dashcam quatre caméras : enregistrement en boucle, détection des chocs et freinages brusques, vitesse, rapport, clignotants et moteur sur la vidéo.",
+                                     "ar":  "كاميرا قيادة بأربع كاميرات: تسجيل متواصل، كشف الصدمات والفرملة القوية، السرعة وناقل الحركة والإشارات والمحرك على الفيديو."
+                                 },
+                     "version_code":  17,
+                     "version_name":  "0.5.6",
+                     "file":  "apps/dev.coldfire.rayon.dashcam-0.5.6.apk",
+                     "sha256":  "3e68ce2ff1a19fbc0d440d442294840c7dc986ac22c00553cb12a5775e12de20",
+                     "size":  194262,
+                     "icon":  "icons/dev.coldfire.rayon.dashcam.png",
+                     "icon_sha256":  "b9f803e092a466a8db670bd6737740d1931132d97819394cc68c1914ea29b25d"
                  }
              ]
 }
