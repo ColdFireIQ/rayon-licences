@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=25
-version_name=0.10.2
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.10.2.apk
-sha256=26df463f14d9fb96eeb40f8af208d54da5ad97c07306d83384a57f73613d08f1
-size=6237614
-published=2026-11-26T16:56:57Z
-notes_en=Remote help: simpler steps.
-notes_fr=Assistance à distance : étapes simplifiées.
-notes_ar=المساعدة عن بعد: خطوات أبسط.
-sig=MEUCIQCXT7V/Vp+uW2sUzP1Z3+gSOWowbThp/lxsPfV+1SybhQIgMxB720L4jg4bXQnI4hIAO+6DR48ff6CUhqwNwHVeypw=
+version_code=26
+version_name=0.10.3
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.10.3.apk
+sha256=ce5afa65f1f40f035b2af82786d1d9750e19e263696a6122261ed252b8f69110
+size=6237886
+published=2026-11-26T19:58:34Z
+notes_en=Remote help, language and updates are available before a car is paired.
+notes_fr=L'assistance à distance, la langue et les mises à jour sont disponibles avant d'associer une voiture.
+notes_ar=المساعدة عن بعد واللغة والتحديثات متاحة قبل ربط السيارة.
+sig=MEQCIHJ/e9AU7EBms13bBOF3Xm49Vc+zyWmqp5AdHUm/zgT4AiBIKFbc5LdLGUIH5TWCk0nDGXyB1wICG05T6mf/mbYQNA==
