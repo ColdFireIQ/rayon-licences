@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=23
-version_name=0.10.0
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.10.0.apk
-sha256=9eb6aa50a5e4edd4963e8adba8b448ee4fc1fce853e5c78aa04050dee3db2d2f
-size=6237458
-published=2026-11-26T10:42:26Z
-notes_en=New in Settings: Remote help. ColdFire can now set up or fix RayOn on your car from far away, through your phone.
-notes_fr=Nouveau dans Réglages : Assistance à distance. ColdFire peut maintenant installer ou réparer RayOn sur votre voiture à distance, via votre téléphone.
-notes_ar=جديد في الإعدادات: المساعدة عن بعد. يمكن لـ ColdFire الآن تثبيت RayOn أو إصلاحه في سيارتك عن بعد، عبر هاتفك.
-sig=MEQCIBj8jgKGgmmgpoxVsC7UDY+JAAadAgQFu/MtdIlzIUv5AiAHGgpPPrE5tBCopiet1GSZTPx6B7pI2nHVSqnZJV9/6w==
+version_code=24
+version_name=0.10.1
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.10.1.apk
+sha256=ed8c900e4635963224f2282168407da133d8c0b16b161f4799a899e5a2c31192
+size=6240346
+published=2026-11-26T16:30:24Z
+notes_en=Remote help now shows the car code that turns on wireless debugging.
+notes_fr=L'assistance à distance affiche le code qui active le débogage sans fil de la voiture.
+notes_ar=تعرض المساعدة عن بعد الرمز الذي يفعّل التصحيح اللاسلكي في السيارة.
+sig=MEYCIQCGcnFBwEQK+3SMRni2NMdCLtHId8tK6Kksc2CM7j7gSQIhAIJodKRUZEXY6MVZuOaD/qGoLWPrwXd37RD+7FZ/X38c
