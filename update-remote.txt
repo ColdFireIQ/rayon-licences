@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon.remote
-version_code=27
-version_name=0.10.4
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.10.4.apk
-sha256=ca354e4393d6f9a0f39668eca19b093826f86b9fbc5521e460043ca3cc3ef5dd
-size=6238678
-published=2026-11-26T20:04:44Z
-notes_en=Remote help: fixed the connection to the car.
-notes_fr=Assistance à distance : connexion à la voiture corrigée.
-notes_ar=المساعدة عن بعد: تم إصلاح الاتصال بالسيارة.
-sig=MEQCIDnGk1hJ3NdzCRjm1ttY3xvLgLloibi7v0wWJcOD1STmAiAgmbbr2ivSNi5dx9GJCARj5l665FFk7elpQnI/jNtQqA==
+version_code=28
+version_name=0.11.0
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon.remote-0.11.0.apk
+sha256=08ebf3adda1147b90ce727d8b5c00499d50e0ede4ce6b48357c0b65de88f07d3
+size=6249346
+published=2026-11-27T23:26:20Z
+notes_en=New: Set up over cable (USB) in Remote help, for a first set-up by cable. Remote help now also finds cars that use port 5556.
+notes_fr=Nouveau : Installer par câble (USB) dans l'assistance à distance, pour une première installation par câble. L'assistance trouve aussi les voitures sur le port 5556.
+notes_ar=جديد: التثبيت عبر الكابل (USB) في المساعدة عن بعد، لأول تثبيت بالكابل. المساعدة تجد أيضا السيارات على المنفذ 5556.
+sig=MEQCIBah/CElUwAQ37mmkui3Rval2c/6Qz2A1tVHWBSJEW26AiADXg+GHfyu/JF2HwHQgj5J3/3XMwzPSLnwVvYIarch3g==
