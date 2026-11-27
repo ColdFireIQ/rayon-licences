@@ -2,13 +2,13 @@
 format=1
 kind=update
 app=dev.coldfire.rayon
-version_code=94
-version_name=0.41.1
-url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.41.1.apk
-sha256=c38c1c0fb04e12bc6591a13d31a5b9ba19a6c40ea11bf8998614429bb61da2f7
-size=9102865
-published=2026-11-26T21:16:20Z
-notes_en=New Wallpaper page; widgets now match dark mode in the widget list; better settings on new cars.
-notes_fr=Nouvelle page Fond d'écran ; les widgets suivent le mode sombre dans la liste des widgets ; meilleurs réglages sur les nouvelles voitures.
-notes_ar=صفحة خلفيات جديدة؛ الأدوات تتبع الوضع الداكن في قائمة الأدوات؛ إعدادات أفضل في السيارات الجديدة.
-sig=MEUCIQCMW+5MMlT/rv9+CEyuxiptPKp7VaJX9XiStx7tMzxAGQIgS/DpRP6epscIncpYMWpYdzzIOo0045JNzx8Mo1k1Y4k=
+version_code=95
+version_name=0.41.2
+url=https://raw.githubusercontent.com/ColdFireIQ/rayon-licences/main/releases/dev.coldfire.rayon-0.41.2.apk
+sha256=0d2025dde6c4928deb0041b22ea7fb1577a397ce2e9367f2f9e4662f682d0be4
+size=9117065
+published=2026-11-27T23:25:37Z
+notes_en=New: a 3D car of your Coolray on the home screen, over your wallpaper (Settings > Wallpapers): drag it to turn it, it opens doors and trunk and lights up with the real car. Choose its colour there.
+notes_fr=Nouveau : une voiture 3D de votre Coolray sur l'écran d'accueil, par-dessus votre fond d'écran (Réglages > Fonds d'écran) : faites-la tourner du doigt, elle ouvre portes et coffre et s'allume comme la vraie voiture. Choisissez sa couleur au même endroit.
+notes_ar=جديد: سيارة 3D لسيارتك Coolray على الشاشة الرئيسية فوق خلفيتك (الإعدادات > الخلفيات): اسحبها لتدويرها، تفتح الأبواب والصندوق وتضيء مثل السيارة الحقيقية. اختر لونها من هناك.
+sig=MEUCICDPalSTeW9y/lelz5LRrgt/YGc7lMAKt3bSra+2z3M1AiEA07XleAHR+q1lH1HETdpMr+RtK25o3AsW0QWIVysrM0w=
